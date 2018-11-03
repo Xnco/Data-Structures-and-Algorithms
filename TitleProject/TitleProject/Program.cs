@@ -10,26 +10,40 @@ namespace TitleProject
     {
         static void Main(string[] args)
         {
-            int[][] grid = new int[4][] {
-                new int[] { 3,0,8,4 },
-                new int[] { 2,4,5,7 },
-                new int[] { 9,2,6,3 },
-                new int[] { 0,3,1,0 },
-            };
-
-            int num = MaxIncreaseKeepingSkyline(grid);
-
-            for (int i = 0; i < grid.Length; i++)
-            {
-                for (int j = 0; j < grid[i].Length; j++)
-                {
-                    Console.Write(grid[i][j]); 
-                }
-                Console.WriteLine();
-            }
+            
         }
 
-        // 771. 宝石和石头
+        #region 0 
+        /*
+         
+        */
+        static void Func()
+        {
+
+        }
+        #endregion
+        #region 1.两数之和 (简单)
+        /*
+         给定一个整数数组和一个目标值，找出数组中和为目标值的两个数。
+        你可以假设每个输入只对应一种答案，且同样的元素不能被重复利用。
+        */
+        static int[] TwoSum(int[] nums, int target)
+        {
+            for (int i = 0; i < nums.Length; i++)
+            {
+                for (int j = i + 1; j < nums.Length; j++)
+                {
+                    if (nums[i] + nums[j] == target)
+                    {
+                        return new int[] {i, j };
+                    }
+                }
+            }
+            return null;
+        }
+        #endregion
+
+        #region 771. 宝石和石头 (简单)
         /*
           给定字符串J 代表石头中宝石的类型，和字符串 S代表你拥有的石头。 S 中每个字符代表了一种你拥有的石头的类型，你想知道你拥有的石头中有多少是宝石。
         J 中的字母不重复，J 和 S中的所有字符都是字母。字母区分大小写，因此"a"和"A"是不同类型的石头。 
@@ -50,8 +64,9 @@ namespace TitleProject
             }
             return num;
         }
+        #endregion 
 
-        // 807. 保持城市天际线
+        #region 807. 保持城市天际线 (中等)
         /*
             在二维数组grid中，grid[i][j]代表位于某处的建筑物的高度。 我们被允许增加任何数量（不同建筑物的数量可能不同）的建筑物的高度。 高度 0 也被认为是建筑物。
             最后，从新数组的所有四个方向（即顶部，底部，左侧和右侧）观看的“天际线”必须与原始数组的天际线相同。 
@@ -110,5 +125,6 @@ namespace TitleProject
             }
             return num;
         }
+        #endregion
     }
 }
