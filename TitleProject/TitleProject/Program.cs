@@ -16,6 +16,17 @@ namespace TitleProject
                 new int[] { 9,2,6,3 },
                 new int[] { 0,3,1,0 },
             };
+
+            int num = MaxIncreaseKeepingSkyline(grid);
+
+            for (int i = 0; i < grid.Length; i++)
+            {
+                for (int j = 0; j < grid[i].Length; j++)
+                {
+                    Console.Write(grid[i][j]); 
+                }
+                Console.WriteLine();
+            }
         }
 
         // 771. 宝石和石头
@@ -40,7 +51,7 @@ namespace TitleProject
             return num;
         }
 
-        // 807. 宝石城市天际线
+        // 807. 保持城市天际线
         /*
             在二维数组grid中，grid[i][j]代表位于某处的建筑物的高度。 我们被允许增加任何数量（不同建筑物的数量可能不同）的建筑物的高度。 高度 0 也被认为是建筑物。
             最后，从新数组的所有四个方向（即顶部，底部，左侧和右侧）观看的“天际线”必须与原始数组的天际线相同。 
@@ -67,16 +78,36 @@ namespace TitleProject
         {
             int num = 0;
             // 暴力
-            //for (int i = 0; i < grid.Length; i++)
-            //{
-            //    for (int j = 0; j < grid[i].Length; j++)
-            //    {
-            //        //grid[i, j]
-            //    }
-            //}
+            for (int i = 0; i < grid.Length; i++)
+            {
+                for (int j = 0; j < grid[i].Length; j++)
+                {
+                    // 先找到一行中最大的数
+                    int maxRow = grid[i][0];
+                    for (int k = 1; k < grid[i].Length; k++)
+                    {
+                        if (grid[i][k] > maxRow)
+                        {
+                            maxRow = grid[i][k];
+                        }
+                    }
 
-            
+                    // 再找一列中的最大数
+                    int maxCol = grid[0][j];
+                    for (int k = 1; k < grid[j].Length; k++)
+                    {
+                        if (grid[k][j] > maxCol)
+                        {
+                            maxCol = grid[k][j];
+                        }
+                    }
 
+                    // 行列上两个最大值中取小的, 就是增长的最大值
+                    int max = maxRow < maxCol ? maxRow : maxCol;
+                    num += max - grid[i][j];
+                    grid[i][j] = max;
+                }
+            }
             return num;
         }
     }
