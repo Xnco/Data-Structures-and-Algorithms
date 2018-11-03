@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitleProject", "TitleProjec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_两数相加_链表", "2_两数相加_链表\2_两数相加_链表.csproj", "{368E91C8-BE93-4F83-830D-10F166AA5D1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_无重复字符的最长子串", "3_无重复字符的最长子串\3_无重复字符的最长子串.csproj", "{E5629624-DC56-4651-AA6B-715D45A06958}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{368E91C8-BE93-4F83-830D-10F166AA5D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{368E91C8-BE93-4F83-830D-10F166AA5D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{368E91C8-BE93-4F83-830D-10F166AA5D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5629624-DC56-4651-AA6B-715D45A06958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5629624-DC56-4651-AA6B-715D45A06958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5629624-DC56-4651-AA6B-715D45A06958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5629624-DC56-4651-AA6B-715D45A06958}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
