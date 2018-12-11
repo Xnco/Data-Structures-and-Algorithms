@@ -35,7 +35,7 @@ namespace _3_无重复字符的最长子串
         static int LengthOfLongestSubstring(string s)
         {
             int max = 0;
-            for (int 我 = 0; i < length; i++)
+            for (int i = 0; i < 1; i++)
             {
 
             }

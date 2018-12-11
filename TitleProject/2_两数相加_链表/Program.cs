@@ -18,56 +18,59 @@ namespace _2_两数相加_链表
     {
         static void Main(string[] args)
         {
-            ListNode l1_1 = new ListNode(2);
-            ListNode l1_2 = new ListNode(4);
-            ListNode l1_3 = new ListNode(3);
+            ListNode l1_1 = new ListNode(9);
 
-            l1_1.next = l1_2;
-            l1_2.next = l1_3;
-
-            ListNode l2_1 = new ListNode(5);
-            ListNode l2_2 = new ListNode(6);
-            ListNode l2_3 = new ListNode(4);
+            ListNode l2_1 = new ListNode(1);
+            ListNode l2_2 = new ListNode(9);
+            ListNode l2_3 = new ListNode(9);
+            ListNode l2_4 = new ListNode(9);
+            ListNode l2_5 = new ListNode(9);
+            ListNode l2_6 = new ListNode(9);
+            ListNode l2_7 = new ListNode(9);
+            ListNode l2_8 = new ListNode(9);
+            ListNode l2_9 = new ListNode(9);
+            ListNode l2_10 = new ListNode(9);
 
             l2_1.next = l2_2;
             l2_2.next = l2_3;
+            l2_3.next = l2_4;
+            l2_4.next = l2_5;
+            l2_5.next = l2_6;
+            l2_6.next = l2_7;
+            l2_7.next = l2_8;
+            l2_8.next = l2_9;
+            l2_9.next = l2_10;
 
-            ListNode ln = AddTwoNumbers(l1_1, l2_1);
+            ListNode ln = new Program().AddTwoNumbers(l1_1, l2_1);
 
-            int result = ln.val + ln.next.val * 10 + ln.next.next.val * 100;
-            Console.WriteLine(result);
+            Console.ReadKey();
         }
 
-        static ListNode AddTwoNumbers(ListNode l1, ListNode l2)
+        ListNode AddTwoNumbers(ListNode l1, ListNode l2)
         {
-            ListNode cur = l1;
-            string num1 = "";
-            while (cur != null)
+            ListNode cur1 = l1;
+            ListNode cur2 = l2;
+
+            ListNode header = new ListNode(0);
+            ListNode newCur = header;
+            int isOver = 0;
+
+            while (cur1 != null || cur2 != null)
             {
-                num1 += cur.val;
-                cur = cur.next;
+                int num = (cur1 != null ? cur1.val : 0) + (cur2 != null ? cur2.val : 0) + isOver;
+                isOver = num / 10;
+
+                newCur.next = new ListNode(num % 10);
+                newCur = newCur.next;
+
+                if (cur1 != null) cur1 = cur1.next;
+
+                if (cur2 != null) cur2 = cur2.next;
             }
 
-            cur = l2;
-            string num2 = "";
-            while (cur != null)
-            {
-                num2 += cur.val;
-                cur = cur.next;
-            }
+            if (isOver != 0) newCur.next = new ListNode(1);
 
-            int result = int.Parse(num1) + int.Parse(num2);
-            ListNode resultNode = new ListNode(result % 10);
-            cur = resultNode;
-            while (result != 0)
-            {
-                result = result / 10;
-                ListNode ln = new ListNode(result % 10);
-                cur.next = ln;
-                cur = ln;
-            }
-
-            return resultNode;
+            return header.next;
         }
     }
 
@@ -78,5 +81,42 @@ namespace _2_两数相加_链表
         public ListNode next;
         public ListNode(int x) { val = x; }
     }
+    
+    /*  两数相加硬算
+     public ListNode AddTwoNumbers(ListNode l1, ListNode l2) 
+        {
+            string num1 = GetText(l1);
+            string num2 = GetText(l2);
 
+            int result = int.Parse(num1) + int.Parse(num2);
+
+            ListNode resultNode = new ListNode(result % 10);
+            ListNode cur = resultNode;
+            while (result != 0)
+            {
+                result = result / 10;
+                if (result == 0)
+                {
+                    break;
+                }
+                ListNode ln = new ListNode(result % 10);
+                cur.next = ln;
+                cur = ln;
+            }
+
+            return resultNode;
+        }
+
+        string GetText(ListNode node)
+        {
+            ListNode cur = node;
+            string num1 = "";
+            while (cur != null)
+            {
+                num1 = num1.Insert(0, cur.val.ToString());
+                cur = cur.next;
+            }
+            return num1;
+        } 
+   */
 }

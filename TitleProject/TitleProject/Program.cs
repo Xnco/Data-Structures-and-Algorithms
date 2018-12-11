@@ -29,17 +29,36 @@ namespace TitleProject
         */
         static int[] TwoSum(int[] nums, int target)
         {
+            // 暴力
+            //for (int i = 0; i < nums.Length; i++)
+            //{
+            //    for (int j = i + 1; j < nums.Length; j++)
+            //    {
+            //        if (nums[i] + nums[j] == target)
+            //        {
+            //            return new int[] {i, j };
+            //        }
+            //    }
+            //}
+            //return null;
+
+            // 两遍哈希表
+            Dictionary<int, int> numDic = new Dictionary<int, int>();
+
             for (int i = 0; i < nums.Length; i++)
             {
-                for (int j = i + 1; j < nums.Length; j++)
+                numDic.Add(i, nums[i]);
+            }
+
+            for (int i = 0; i < nums.Length; i++)
+            {
+                int n = target - nums[i];
+                if (numDic.ContainsValue(n))
                 {
-                    if (nums[i] + nums[j] == target)
-                    {
-                        return new int[] {i, j };
-                    }
+
                 }
             }
-            return null;
+            
         }
         #endregion
 
