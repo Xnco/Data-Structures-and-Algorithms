@@ -34,12 +34,49 @@ namespace _3_无重复字符的最长子串
 
         static int LengthOfLongestSubstring(string s)
         {
+            #region 暴力
+            //int max = 0;
+            //for (int j = 0; j < s.Length; j++)
+            //{
+            //    string tmp = "";
+            //    for (int i = j; i < s.Length; i++)
+            //    {
+            //        // 如果已存在， 就中断
+            //        string single = s[i].ToString();
+            //        if (tmp.Contains(single))
+            //        {
+            //            break;
+            //        }
+            //        tmp += single;
+            //    }
+            //    if (tmp.Length > max)
+            //    {
+            //        max = tmp.Length;
+            //    }
+            //}
+            //return max;
+            #endregion
+
             int max = 0;
-            for (int i = 0; i < 1; i++)
+            string tmp = "";
+            for (int i = 0; i < s.Length; i++)
             {
-
+                int index = tmp.IndexOf(s[i]);
+                if (index != -1)
+                {
+                    // 存在
+                    if (index + 1 == tmp.Length)
+                    {
+                        tmp = "";
+                    }
+                    else
+                    {
+                        tmp = tmp.Substring(index + 1);
+                    }
+                }
+                tmp += s[i];
+                max = Math.Max(tmp.Length, max);     
             }
-
             return max;
         }
     }

@@ -1,13 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitleProject", "TitleProject\TitleProject.csproj", "{CC02D18E-C7FE-4431-BCE0-C127A5AF0FFB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_两数相加_链表", "2_两数相加_链表\2_两数相加_链表.csproj", "{368E91C8-BE93-4F83-830D-10F166AA5D1D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_无重复字符的最长子串", "3_无重复字符的最长子串\3_无重复字符的最长子串.csproj", "{E5629624-DC56-4651-AA6B-715D45A06958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_两数之和", "1_两数之和\1_两数之和.csproj", "{CC44AA67-6246-47B8-A0C6-C3799D7FE32F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "771_宝石和石头", "771_宝石和石头\771_宝石和石头.csproj", "{A4D3ECF3-8017-42CD-9A11-36C6A8412966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "807_保持城市天际线", "807_保持城市天际线\807_保持城市天际线.csproj", "{B7E76CE0-3A4D-40F1-B068-E6543BE836FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,8 +33,23 @@ Global
 		{E5629624-DC56-4651-AA6B-715D45A06958}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5629624-DC56-4651-AA6B-715D45A06958}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5629624-DC56-4651-AA6B-715D45A06958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC44AA67-6246-47B8-A0C6-C3799D7FE32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC44AA67-6246-47B8-A0C6-C3799D7FE32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC44AA67-6246-47B8-A0C6-C3799D7FE32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC44AA67-6246-47B8-A0C6-C3799D7FE32F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4D3ECF3-8017-42CD-9A11-36C6A8412966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4D3ECF3-8017-42CD-9A11-36C6A8412966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4D3ECF3-8017-42CD-9A11-36C6A8412966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4D3ECF3-8017-42CD-9A11-36C6A8412966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E76CE0-3A4D-40F1-B068-E6543BE836FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E76CE0-3A4D-40F1-B068-E6543BE836FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E76CE0-3A4D-40F1-B068-E6543BE836FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E76CE0-3A4D-40F1-B068-E6543BE836FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33112DDE-6B86-4640-8FEE-C4DE23784246}
 	EndGlobalSection
 EndGlobal
