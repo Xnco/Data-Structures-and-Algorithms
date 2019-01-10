@@ -7,7 +7,7 @@
     <ProjectGuid>{18A6E90F-4088-4033-B605-31FFF519C7F4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_37_解数独</RootNamespace>
-    <AssemblyName>_37_解数独</AssemblyName>
+    <AssemblyName>37_解数独</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

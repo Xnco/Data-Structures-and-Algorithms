@@ -180,6 +180,7 @@ namespace _37_解数独
             return true;
         }
 
+        // 效率太低问题就出在这， 一共获取了 9 * 9 * 9 次值， 实际只要获取一次即可
         List<char> GetNumber(char[,] board, int x, int y)
         {
             List<char> chars = new List<char> { '1', '2', '3', '4', '5', '6', '7', '8', '9' };
