@@ -147,32 +147,74 @@ namespace _37_解数独
     }
     public class Solution
     {
+        //bool[,] rowNumber; // 某行某个数字是否存在，不管他存在什么地方
+        //bool[,] colNumber; // 某列某个数字是否存在，不管他存在什么地方
+        //bool[,] blockNumber; // 某块某个数字是否存在， 不管他存在什么地方
+
         public void SolveSudoku(char[,] board)
         {
-            StartWork(board, 0, 0);
+            bool[,] rowNumber = new bool[9, 9];
+            bool[,] colNumber = new bool[9, 9];
+            bool[,] blockNumber = new bool[9, 9];
+
+            // 初始化
+            for (int i = 0; i < 9; i++)
+            {
+                for (int j = 0; j < 9; j++)
+                {
+                    if (board[i, j] != '.')
+                    {
+                        int value = board[i, j] - 48 - 1; // char - 48 得到具体的数字， 再 -1 是将1-9转换成0-8
+                        int block = (i / 3) * 3 + (j / 3);
+                        rowNumber[i, value] = true;
+                        colNumber[j, value] = true;
+                        blockNumber[block, value] = true;
+                    }
+                }
+            }
+
+            StartWork(board, rowNumber, colNumber, blockNumber);
         }
 
-        bool StartWork(char[,] board, int beginX, int beginY)
+        bool StartWork(char[,] board, bool[,] rowNumber, bool[,] colNumber, bool[,] blockNumber)
         {
             for (int i = 0; i < 9; i++)
             {
                 for (int j = 0; j < 9; j++)
                 {
-                    if (board[i, j] == '.') // 只找到一个空的
+                    if (board[i, j] == '.') // 只需要找到一个空的
                     {
-                        List<char> canNum = GetNumber(board, i, j);
-                        for (int index = 0; index < canNum.Count; index++)
+                        // 得到当前位置可能的值
+                        //List<char> canNum = GetNumber(board, i, j);
+                        // 将每个数字都填入一遍
+                        for (int index = 0; index <= 8; index++)
                         {
-                            board[i, j] = canNum[index]; // 有得填 -> 填完之后继续下一个
-                                                         // 递归， 由于当前这个填了， 下次填的就是下一个
-                            if (StartWork(board, i, j))
+                            // 判断这个数字能不能填 三个方向都要判断
+                            int block = (i / 3) * 3 + (j / 3);
+                            if (!rowNumber[i, index] && !colNumber[j, index] && !blockNumber[block, index])
                             {
-                                // 如果下次填成功， OK
-                                return true;
+                                // 能填 -> 填完之后继续下一个
+                                board[i, j] = (char)(index + 48 + 1);
+                                rowNumber[i, index] = true;
+                                colNumber[j, index] = true;
+                                blockNumber[block, index] = true;
+                                // 递归， 由于当前这个填了， 下次填的就是下一个
+                                if (StartWork(board, rowNumber, colNumber, blockNumber))
+                                {
+                                    // 如果下次填成功， OK (只有最后一个数都成功了才会返回true)
+                                    return true;
+                                }
+                                else
+                                {
+                                    // 下一个填失败了 - 当前个重置，继续试下一个树
+                                    board[i, j] = '.';
+                                    rowNumber[i, index] = false;
+                                    colNumber[j, index] = false;
+                                    blockNumber[block, index] = false;
+                                }
                             }
                         }
-                        // 直到遍历完了还没成功， 说明没可能成功了， 返回 false, 当前填的也不能不算数
-                        board[i, j] = '.';
+                        // 直到遍历完了还没成功， 说明当前数没可能成功了， 返回 false 告诉上一个数我这里路断了
                         return false;
                     }
                 }
@@ -180,7 +222,8 @@ namespace _37_解数独
             return true;
         }
 
-        // 效率太低问题就出在这， 一共获取了 9 * 9 * 9 次值， 实际只要获取一次即可
+        // 效率太低问题就出在这， 一共获取了 9 * 9 * 9 次值， 实际只要获取 1 次即可
+        /*
         List<char> GetNumber(char[,] board, int x, int y)
         {
             List<char> chars = new List<char> { '1', '2', '3', '4', '5', '6', '7', '8', '9' };
@@ -238,6 +281,18 @@ namespace _37_解数独
                 }
             }
             return chars;
+        }
+        */
+
+        // 根据行列数得到当前的块数
+        int GetBlockIndex(int x, int y)
+        {
+            /* x决定行数 ， y决定列数
+             * 012
+             * 345
+             * 678
+            */
+            return (x / 3) * 3 + (y / 3);
         }
     }
 }
