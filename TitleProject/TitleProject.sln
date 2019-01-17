@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_寻找两个有序数组�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37_解数独", "37_解数独\37_解数独.csproj", "{18A6E90F-4088-4033-B605-31FFF519C7F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quicksort", "Quicksort\Quicksort.csproj", "{8D59F781-7AFE-438B-BB51-3911BAF420D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{18A6E90F-4088-4033-B605-31FFF519C7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18A6E90F-4088-4033-B605-31FFF519C7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18A6E90F-4088-4033-B605-31FFF519C7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D59F781-7AFE-438B-BB51-3911BAF420D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D59F781-7AFE-438B-BB51-3911BAF420D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D59F781-7AFE-438B-BB51-3911BAF420D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D59F781-7AFE-438B-BB51-3911BAF420D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
