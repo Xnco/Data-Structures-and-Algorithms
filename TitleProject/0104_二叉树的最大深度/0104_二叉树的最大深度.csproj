@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9ABB9AE9-9221-405F-8C1A-D5A26B5F5547}</ProjectGuid>
+    <ProjectGuid>{6EA309CF-DC40-4B87-B429-88CB78DF3268}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_70_爬楼梯</RootNamespace>
-    <AssemblyName>70_爬楼梯</AssemblyName>
+    <RootNamespace>_0104_二叉树的最大深度</RootNamespace>
+    <AssemblyName>0104_二叉树的最大深度</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
