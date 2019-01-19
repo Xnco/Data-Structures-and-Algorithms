@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0070_爬楼梯", "70_爬楼
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0104_二叉树的最大深度", "0104_二叉树的最大深度\0104_二叉树的最大深度.csproj", "{6EA309CF-DC40-4B87-B429-88CB78DF3268}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0414_第三大的数", "0414_第三大的数\0414_第三大的数.csproj", "{05D00090-31D7-4A9B-BC64-9AEA8E66DCF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{6EA309CF-DC40-4B87-B429-88CB78DF3268}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EA309CF-DC40-4B87-B429-88CB78DF3268}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EA309CF-DC40-4B87-B429-88CB78DF3268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D00090-31D7-4A9B-BC64-9AEA8E66DCF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D00090-31D7-4A9B-BC64-9AEA8E66DCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D00090-31D7-4A9B-BC64-9AEA8E66DCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D00090-31D7-4A9B-BC64-9AEA8E66DCF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
