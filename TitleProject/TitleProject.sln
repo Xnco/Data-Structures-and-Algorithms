@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0344_反转字符串", "034
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0557_反转字符串中的单词III", "0557_反转字符串中的单词III\0557_反转字符串中的单词III.csproj", "{D6299316-2F5E-47E5-BBA3-0E7C73F8BBEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0169_求众数", "0169_求众数\0169_求众数.csproj", "{170CB8B1-E410-4863-85C8-E9DE91EC0456}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{D6299316-2F5E-47E5-BBA3-0E7C73F8BBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6299316-2F5E-47E5-BBA3-0E7C73F8BBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6299316-2F5E-47E5-BBA3-0E7C73F8BBEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170CB8B1-E410-4863-85C8-E9DE91EC0456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170CB8B1-E410-4863-85C8-E9DE91EC0456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170CB8B1-E410-4863-85C8-E9DE91EC0456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170CB8B1-E410-4863-85C8-E9DE91EC0456}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

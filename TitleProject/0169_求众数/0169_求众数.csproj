@@ -7,7 +7,7 @@
     <ProjectGuid>{170CB8B1-E410-4863-85C8-E9DE91EC0456}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_0169_求众数</RootNamespace>
-    <AssemblyName>_0169_求众数</AssemblyName>
+    <AssemblyName>0169_求众数</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
