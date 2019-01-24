@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{659CB7B0-ECCC-4255-AB07-F78505D77D24}</ProjectGuid>
+    <ProjectGuid>{D6299316-2F5E-47E5-BBA3-0E7C73F8BBEA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0344_反转字符串</RootNamespace>
-    <AssemblyName>0344_反转字符串</AssemblyName>
+    <RootNamespace>_0557_反转字符串中的单词III</RootNamespace>
+    <AssemblyName>0557_反转字符串中的单词III</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

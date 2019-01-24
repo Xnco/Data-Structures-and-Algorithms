@@ -44,6 +44,7 @@ namespace _0237_删除链表中的节点
 
         // 这里不能获取 node 的前一个节点，只删除这一个
         // 所以将我的下一个Copy，再让我链接next.next，这样我的下一个就给我赋值并删除了
+        // 144ms
         public static void DeleteNode(ListNode node)
         {
             node.val = node.next.val;

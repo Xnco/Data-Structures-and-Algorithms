@@ -7,7 +7,7 @@
     <ProjectGuid>{2F9FE5C0-F3EB-446F-82C2-D6552D9FE119}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_0292_Nim游戏</RootNamespace>
-    <AssemblyName>_0292_Nim游戏</AssemblyName>
+    <AssemblyName>0292_Nim游戏</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

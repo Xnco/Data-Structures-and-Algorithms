@@ -35,6 +35,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0104_二叉树的最大深�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0414_第三大的数", "0414_第三大的数\0414_第三大的数.csproj", "{05D00090-31D7-4A9B-BC64-9AEA8E66DCF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0237_删除链表中的节点", "0237_删除链表中的节点\0237_删除链表中的节点.csproj", "{95A27B5B-DEA1-48FF-91FE-6356F24E676B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0292_Nim游戏", "0292_Nim游戏\0292_Nim游戏.csproj", "{2F9FE5C0-F3EB-446F-82C2-D6552D9FE119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0344_反转字符串", "0344_反转字符串\0344_反转字符串.csproj", "{659CB7B0-ECCC-4255-AB07-F78505D77D24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0557_反转字符串中的单词III", "0557_反转字符串中的单词III\0557_反转字符串中的单词III.csproj", "{D6299316-2F5E-47E5-BBA3-0E7C73F8BBEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +113,22 @@ Global
 		{05D00090-31D7-4A9B-BC64-9AEA8E66DCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05D00090-31D7-4A9B-BC64-9AEA8E66DCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05D00090-31D7-4A9B-BC64-9AEA8E66DCF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A27B5B-DEA1-48FF-91FE-6356F24E676B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A27B5B-DEA1-48FF-91FE-6356F24E676B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A27B5B-DEA1-48FF-91FE-6356F24E676B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A27B5B-DEA1-48FF-91FE-6356F24E676B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9FE5C0-F3EB-446F-82C2-D6552D9FE119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9FE5C0-F3EB-446F-82C2-D6552D9FE119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9FE5C0-F3EB-446F-82C2-D6552D9FE119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9FE5C0-F3EB-446F-82C2-D6552D9FE119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659CB7B0-ECCC-4255-AB07-F78505D77D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659CB7B0-ECCC-4255-AB07-F78505D77D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659CB7B0-ECCC-4255-AB07-F78505D77D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659CB7B0-ECCC-4255-AB07-F78505D77D24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6299316-2F5E-47E5-BBA3-0E7C73F8BBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6299316-2F5E-47E5-BBA3-0E7C73F8BBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6299316-2F5E-47E5-BBA3-0E7C73F8BBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6299316-2F5E-47E5-BBA3-0E7C73F8BBEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

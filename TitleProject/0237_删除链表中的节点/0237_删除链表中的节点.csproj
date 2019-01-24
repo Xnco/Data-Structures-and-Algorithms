@@ -7,7 +7,7 @@
     <ProjectGuid>{95A27B5B-DEA1-48FF-91FE-6356F24E676B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_0237_删除链表中的节点</RootNamespace>
-    <AssemblyName>_0237_删除链表中的节点</AssemblyName>
+    <AssemblyName>0237_删除链表中的节点</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
