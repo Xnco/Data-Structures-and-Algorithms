@@ -4,37 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TitleProject
+namespace _0344_反转字符串
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
         }
-
-       
-
-
-        #region 0 
-        /*
-         
-        */
-        static void Func()
-        {
-
-        }
-        #endregion
-
-        #region 879 - 动态规划问题
-        /*
-         
-        */
-        static void ProfitableSchemes()
-        {
-
-        }
-        #endregion
 
         #region 344-反转字符串 
         /*
