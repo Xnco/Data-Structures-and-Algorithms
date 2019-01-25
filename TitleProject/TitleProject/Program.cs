@@ -10,7 +10,7 @@ namespace TitleProject
     {
         static void Main(string[] args)
         {
-            
+
         }
 
         #region 0 
@@ -33,6 +33,6 @@ namespace TitleProject
         }
         #endregion
 
-       
+        
     }
 }

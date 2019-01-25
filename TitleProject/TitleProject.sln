@@ -45,6 +45,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0557_反转字符串中的�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0169_求众数", "0169_求众数\0169_求众数.csproj", "{170CB8B1-E410-4863-85C8-E9DE91EC0456}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0206_反转链表", "0206_反转链表\0206_反转链表.csproj", "{32D7E909-B85C-4F94-8682-4A4ED7F9A292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0136_只出现一次的数字", "0136_只出现一次的数字\0136_只出现一次的数字.csproj", "{95342160-38B5-4B29-AF66-A6C9CF6B1F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0137_只出现一次的数字II", "0137_只出现一次的数字II\0137_只出现一次的数字II.csproj", "{B4123B06-BBD4-44BE-8A1C-A32549811AB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0009_回文数", "0009_回文数\0009_回文数.csproj", "{556E6D7B-0E6C-46EC-A0C4-6E76D54C856C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +143,22 @@ Global
 		{170CB8B1-E410-4863-85C8-E9DE91EC0456}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{170CB8B1-E410-4863-85C8-E9DE91EC0456}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{170CB8B1-E410-4863-85C8-E9DE91EC0456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D7E909-B85C-4F94-8682-4A4ED7F9A292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D7E909-B85C-4F94-8682-4A4ED7F9A292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D7E909-B85C-4F94-8682-4A4ED7F9A292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D7E909-B85C-4F94-8682-4A4ED7F9A292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95342160-38B5-4B29-AF66-A6C9CF6B1F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95342160-38B5-4B29-AF66-A6C9CF6B1F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95342160-38B5-4B29-AF66-A6C9CF6B1F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95342160-38B5-4B29-AF66-A6C9CF6B1F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4123B06-BBD4-44BE-8A1C-A32549811AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4123B06-BBD4-44BE-8A1C-A32549811AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4123B06-BBD4-44BE-8A1C-A32549811AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4123B06-BBD4-44BE-8A1C-A32549811AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556E6D7B-0E6C-46EC-A0C4-6E76D54C856C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556E6D7B-0E6C-46EC-A0C4-6E76D54C856C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556E6D7B-0E6C-46EC-A0C4-6E76D54C856C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556E6D7B-0E6C-46EC-A0C4-6E76D54C856C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
