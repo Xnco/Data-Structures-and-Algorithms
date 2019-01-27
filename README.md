@@ -26,6 +26,8 @@
 * 3-<font size=4>无重复字符的最长子串</font>-中等-2
 * 4-<font size=4>寻找两个有序数组的中位数</font>-<b>困难</b>
 * 9-<font size=4>回文数</font>-简单
+* 15-<font size=4>三数之和</font>-中等
+* 16-<font size=4>最接近的三数之和</font>-中等
 * 37-<font size=4>解数独</font>-<b>困难</b>-2
 * 70-<font size=4>爬楼梯</font>-简单-2
 * 104-<font size=4>二叉树的最大深度</font>-简单-2
