@@ -25,6 +25,7 @@
 * 2-<font size=4>两数相加</font>-中等
 * 3-<font size=4>无重复字符的最长子串</font>-中等-2
 * 4-<font size=4>寻找两个有序数组的中位数</font>-<b>困难</b>
+* 5-<font size=4>最长回文子串</font>-中等-2
 * 9-<font size=4>回文数</font>-简单
 * 15-<font size=4>三数之和</font>-中等
 * 16-<font size=4>最接近的三数之和</font>-中等
