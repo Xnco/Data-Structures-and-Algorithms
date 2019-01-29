@@ -7,7 +7,7 @@
     <ProjectGuid>{CA386985-1CD1-49CD-92EB-68D00ADA802A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_0231_2的幂</RootNamespace>
-    <AssemblyName>_0231_2的幂</AssemblyName>
+    <AssemblyName>0231_2的幂</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -7,7 +7,7 @@
     <ProjectGuid>{C6F1CD02-D26C-4651-AE94-F7CBBB20B445}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_0011_盛最多水的容器</RootNamespace>
-    <AssemblyName>_0011_盛最多水的容器</AssemblyName>
+    <AssemblyName>0011_盛最多水的容器</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
