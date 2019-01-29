@@ -14,10 +14,11 @@
 * LeetCode上的编译时间仅供参考，同一段代码运行两次时间能相差 100ms以上，一次超过5%的人，下一次就可能超过60%的人了。
 
 ## <span id="algorithms">算法</span>
-* 插入排序
-* 希尔排序
-* 归并排序
-* 快速排序
+* 二分查找 - BinarySearch
+* 插入排序 - InsertionSort
+* 希尔排序 - ShellSort
+* 归并排序 - MergeSort
+* 快速排序 - QuickSort
   
 ## <span id="directory">目前完成目录</span>  
 题号-题目-难度-解法数量(没写就是一种解法)
@@ -31,6 +32,7 @@
 * 15-<font size=4>三数之和</font>-中等
 * 16-<font size=4>最接近的三数之和</font>-中等
 * 37-<font size=4>解数独</font>-<b>困难</b>-2
+* 53-<font size=4>最大子序和</font>-简单
 * 70-<font size=4>爬楼梯</font>-简单-2
 * 104-<font size=4>二叉树的最大深度</font>-简单-2
 * 136_<font size=4>只出现一次的数字</font>-简单-2

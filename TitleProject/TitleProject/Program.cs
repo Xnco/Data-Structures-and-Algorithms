@@ -12,6 +12,7 @@ namespace TitleProject
         {
             //Console.WriteLine(Convert("LEETCODEISHIRING", 3)); 
         }
+
         
 
         #region 6_Z字形变换
