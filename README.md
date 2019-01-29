@@ -1,7 +1,7 @@
 # <span id='top'>Data-Structures-and-Algorithms</span>
 学习 数据结构 和 算法 的时候记录一些东西，锻炼下逻辑。  
 刷LeetCode题库的中的题，一般一道题或者某种算法会给出多种方案，并且分析利弊(时间/空间复杂度)。  
-会不断完善各式算法的问题，完成详情见 <a href="#algorithms">算法目录</a> 和 <a href="#directory">LeetCode完成目录</a>。  
+会不断完善各式算法的问题，完成详情见 <a href="#datastruction">数据结构目录</a>、<a href="#algorithms">算法目录</a> 和 <a href="#directory">LeetCode完成目录</a>。  
 具体代码见工程/.cs文件。
 
 ### 环境要求: 
@@ -12,6 +12,9 @@
 * 推荐书籍[《数据结构与算法分析》](https://book.douban.com/subject/1139426/)、[《编程珠玑》](https://book.douban.com/subject/3227098/)、[《算法导论》](https://book.douban.com/subject/20432061/)。
 * 如果没有离散数学基础的建议的，特别是看目录都懵的，先看[《离散数学及其应用》](https://book.douban.com/subject/2130743/)。
 * LeetCode上的编译时间仅供参考，同一段代码运行两次时间能相差 100ms以上，一次超过5%的人，下一次就可能超过60%的人了。
+
+## <span id="datastruction">数据结构</span>
+* 链表(表) - LinkedList
 
 ## <span id="algorithms">算法</span>
 * 二分查找 - BinarySearch
