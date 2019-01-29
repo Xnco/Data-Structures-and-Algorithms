@@ -10,8 +10,9 @@ namespace TitleProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Convert("LEETCODEISHIRING", 3)); 
+            //Console.WriteLine(Convert("LEETCODEISHIRING", 3)); 
         }
+        
 
         #region 6_Z字形变换
         /*

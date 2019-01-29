@@ -27,6 +27,7 @@
 * 4-<font size=4>寻找两个有序数组的中位数</font>-<b>困难</b>
 * 5-<font size=4>最长回文子串</font>-中等-2
 * 9-<font size=4>回文数</font>-简单
+* 11-<font size=4>盛最多水的容器</font>-中等
 * 15-<font size=4>三数之和</font>-中等
 * 16-<font size=4>最接近的三数之和</font>-中等
 * 37-<font size=4>解数独</font>-<b>困难</b>-2
@@ -36,6 +37,7 @@
 * 137_<font size=4>只出现一次的数字II</font>-中等-2
 * 169-<font size=4>求众数</font>-简单-2
 * 206-<font size=4>反转链表</font>-简单-2
+* 231-<font size=4>2的幂</font>-简单
 * 237-<font size=4>删除链表中的节点</font>-简单
 * 292-<font size=4>Nim游戏</font>-简单
 * 344-<font size=4>反转字符串</font>-简单
