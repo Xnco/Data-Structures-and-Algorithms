@@ -34,10 +34,12 @@
 * 11-<font size=4>盛最多水的容器</font>-中等
 * 15-<font size=4>三数之和</font>-中等
 * 16-<font size=4>最接近的三数之和</font>-中等
+* 20-<font size=4>有效的括号</font>-简单
 * 37-<font size=4>解数独</font>-<b>困难</b>-2
 * 53-<font size=4>最大子序和</font>-简单
 * 62-<font size=4>不同路径</font>-中等
 * 70-<font size=4>爬楼梯</font>-简单-2
+* 78-<font size=4>子集</font>-中等
 * 104-<font size=4>二叉树的最大深度</font>-简单-2
 * 136_<font size=4>只出现一次的数字</font>-简单-2
 * 137_<font size=4>只出现一次的数字II</font>-中等-2

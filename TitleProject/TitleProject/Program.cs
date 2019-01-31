@@ -11,9 +11,19 @@ namespace TitleProject
         static void Main(string[] args)
         {
             //Console.WriteLine(Convert("LEETCODEISHIRING", 3)); 
+
             
         }
 
+        #region 0 
+        /*
+         
+        */
+        static void Func()
+        {
+
+        }
+        #endregion
         #region 54_螺旋矩阵
         /*
         给定一个包含 m x n 个元素的矩阵（m 行, n 列），请按照顺时针螺旋顺序，返回矩阵中的所有元素。
@@ -37,16 +47,6 @@ namespace TitleProject
         输出: [1,2,3,4,8,12,11,10,9,5,6,7]
         */
         static IList<int> SpiralOrder(int[,] matrix)
-        {
-
-        }
-        #endregion
-
-        #region 0 
-        /*
-         
-        */
-        static void Func()
         {
 
         }
