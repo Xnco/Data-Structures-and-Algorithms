@@ -11,42 +11,17 @@ namespace TitleProject
         static void Main(string[] args)
         {
             //Console.WriteLine(Convert("LEETCODEISHIRING", 3)); 
-
-            
         }
+
+        // LAC(最近公共祖先)
+        // DFS(深度优先遍历)
+        // BFS(广度优先遍历)
 
         #region 0 
         /*
          
         */
         static void Func()
-        {
-
-        }
-        #endregion
-        #region 54_螺旋矩阵
-        /*
-        给定一个包含 m x n 个元素的矩阵（m 行, n 列），请按照顺时针螺旋顺序，返回矩阵中的所有元素。
-
-        示例 1:
-        输入:
-        [
-         [ 1, 2, 3 ],
-         [ 4, 5, 6 ],
-         [ 7, 8, 9 ]
-        ]
-        输出: [1,2,3,6,9,8,7,4,5]
-
-        示例 2:
-        输入:
-        [
-          [1, 2, 3, 4],
-          [5, 6, 7, 8],
-          [9,10,11,12]
-        ]
-        输出: [1,2,3,4,8,12,11,10,9,5,6,7]
-        */
-        static IList<int> SpiralOrder(int[,] matrix)
         {
 
         }
@@ -109,6 +84,106 @@ namespace TitleProject
             return newStr;
         }
         #endregion
+        
+        #region 54_螺旋矩阵
+        /*
+        给定一个包含 m x n 个元素的矩阵（m 行, n 列），请按照顺时针螺旋顺序，返回矩阵中的所有元素。
+
+        示例 1:
+        输入:
+        [
+         [ 1, 2, 3 ],
+         [ 4, 5, 6 ],
+         [ 7, 8, 9 ]
+        ]
+        输出: [1,2,3,6,9,8,7,4,5]
+
+        示例 2:
+        输入:
+        [
+          [1, 2, 3, 4],
+          [5, 6, 7, 8],
+          [9,10,11,12]
+        ]
+        输出: [1,2,3,4,8,12,11,10,9,5,6,7]
+        */
+        //static IList<int> SpiralOrder(int[,] matrix)
+        //{
+
+        //}
+        #endregion
+        #region 61 旋转链表
+        /*
+        给定一个链表，旋转链表，将链表每个节点向右移动 k 个位置，其中 k 是非负数。
+
+        示例 1:
+        输入: 1->2->3->4->5->NULL, k = 2
+        输出: 4->5->1->2->3->NULL
+        解释:
+        向右旋转 1 步: 5->1->2->3->4->NULL
+        向右旋转 2 步: 4->5->1->2->3->NULL
+
+        示例 2:
+        输入: 0->1->2->NULL, k = 4
+        输出: 2->0->1->NULL
+        解释:
+        向右旋转 1 步: 2->0->1->NULL
+        向右旋转 2 步: 1->2->0->NULL
+        向右旋转 3 步: 0->1->2->NULL
+        向右旋转 4 步: 2->0->1->NULL
+        */
+
+        /**
+         * Definition for singly-linked list.
+         * public class ListNode {
+         *     public int val;
+         *     public ListNode next;
+         *     public ListNode(int x) { val = x; }
+         * }
+         */
+
+        static ListNode RotateRight(ListNode head, int k)
+        {
+            if (head == null || head.next == null || k == 0)
+            {
+                return head;
+            }
+
+            // 反转链表
+            ListNode temp = head;
+            while (temp.next != null)
+            {
+                ListNode cur = temp;
+                temp = temp.next;
+                //temp.next = 
+            }
+
+            ListNode current = head;
+            for (int i = 0; i < k; i++)
+            {
+                if (current.next != null)
+                {
+                    current = current.next;
+                }
+                else
+                {
+                    current = head;
+                }
+            }
+
+            ListNode target = current;
+            while (current.next != null)
+            {
+                current = current.next;
+            }
+
+            ListNode newHead = target.next == null ? head : target.next;
+            current.next = head;
+            target.next = null;
+
+            return newHead;
+        }
+        #endregion
         #region 879 - 动态规划问题
         /*
          
@@ -118,5 +193,13 @@ namespace TitleProject
 
         }
         #endregion
+
+        //Definition for singly-linked list.
+        public class ListNode
+        {
+            public int val;
+            public ListNode next;
+            public ListNode(int x) { val = x; }
+        }
     }
 }
