@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9D2F964D-1008-497F-8A32-144A8D59C4CD}</ProjectGuid>
+    <ProjectGuid>{62A07E0A-FC6D-4774-B790-94B3798F9175}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0021_合并两个有序链表</RootNamespace>
-    <AssemblyName>0021_合并两个有序链表</AssemblyName>
+    <RootNamespace>_121_买卖股票的最佳时机II</RootNamespace>
+    <AssemblyName>121_买卖股票的最佳时机II</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
