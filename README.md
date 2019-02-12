@@ -41,6 +41,7 @@
 * 62-<font size=4>不同路径</font>-中等
 * 70-<font size=4>爬楼梯</font>-简单-2
 * 78-<font size=4>子集</font>-中等
+* 88-<font size=4>合并两个有序数组</font>-简单-2
 * 104-<font size=4>二叉树的最大深度</font>-简单-2
 * 122-<font size=4>买卖股票的最佳时机 II</font>-简单
 * 122-<font size=4>买卖股票的最佳时机 II</font>-简单
@@ -48,6 +49,7 @@
 * 137_<font size=4>只出现一次的数字II</font>-中等-2
 * 169-<font size=4>求众数</font>-简单-2
 * 206-<font size=4>反转链表</font>-简单-2
+* 217-<font size=4>存在重复的元素</font>-简单-3
 * 231-<font size=4>2的幂</font>-简单
 * 235-<font size=4>二叉搜索数的最近公共祖先</font>-简单
 * 237-<font size=4>删除链表中的节点</font>-简单

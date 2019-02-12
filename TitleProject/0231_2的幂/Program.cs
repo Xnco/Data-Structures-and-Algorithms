@@ -31,10 +31,23 @@ namespace _0231_2的幂
         输出: false
         */
         // 2^n 次方 转换成二进制即 1000...(n个0)
-        // 84ms
+        // 64ms
         static bool IsPowerOfTwo(int n)
         {
             return n > 0 && (n & n - 1) == 0;
+        }
+
+        // 72ms - 不断求余
+        static bool IsPowerOfTwo2(int n)
+        {
+            if (n == 1) return true;
+            if (n == 0) return false;
+            while (n % 2 == 0)
+            {
+                n = n / 2;
+                if (n == 1) return true;
+            }
+            return false;
         }
         #endregion
     }

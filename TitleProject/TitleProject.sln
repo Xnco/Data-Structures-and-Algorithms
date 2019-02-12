@@ -105,6 +105,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0122_买卖股票的最佳�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0121_买卖股票的最佳时机", "0121_买卖股票的最佳时机\0121_买卖股票的最佳时机.csproj", "{CE9D46A1-9265-4934-BC6A-E8BA6683E0A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0217_存在重复的元素", "0217_存在重复的元素\0217_存在重复的元素.csproj", "{66CB05E6-B371-476C-9EC6-0C0F4FC40FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0088_合并两个有序数组", "0088_合并两个有序数组\0088_合并两个有序数组.csproj", "{69ADCE5B-ACCA-4330-818C-130199CCDCA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +271,14 @@ Global
 		{CE9D46A1-9265-4934-BC6A-E8BA6683E0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE9D46A1-9265-4934-BC6A-E8BA6683E0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE9D46A1-9265-4934-BC6A-E8BA6683E0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66CB05E6-B371-476C-9EC6-0C0F4FC40FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CB05E6-B371-476C-9EC6-0C0F4FC40FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CB05E6-B371-476C-9EC6-0C0F4FC40FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CB05E6-B371-476C-9EC6-0C0F4FC40FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69ADCE5B-ACCA-4330-818C-130199CCDCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69ADCE5B-ACCA-4330-818C-130199CCDCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69ADCE5B-ACCA-4330-818C-130199CCDCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69ADCE5B-ACCA-4330-818C-130199CCDCA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -311,6 +323,8 @@ Global
 		{9D2F964D-1008-497F-8A32-144A8D59C4CD} = {793A1F85-EB85-418F-9CAB-14955B3A04EE}
 		{62A07E0A-FC6D-4774-B790-94B3798F9175} = {8CEAF733-5075-4996-A0C8-8321CDEBFE76}
 		{CE9D46A1-9265-4934-BC6A-E8BA6683E0A1} = {8CEAF733-5075-4996-A0C8-8321CDEBFE76}
+		{66CB05E6-B371-476C-9EC6-0C0F4FC40FFC} = {086156B5-F70A-4C24-908C-4FFCCFD4D34A}
+		{69ADCE5B-ACCA-4330-818C-130199CCDCA7} = {793A1F85-EB85-418F-9CAB-14955B3A04EE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33112DDE-6B86-4640-8FEE-C4DE23784246}

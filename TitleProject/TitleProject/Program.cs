@@ -11,6 +11,10 @@ namespace TitleProject
         static void Main(string[] args)
         {
             //Console.WriteLine(Convert("LEETCODEISHIRING", 3)); 
+
+            int[] nums1 = { 1, 2, 3, 0, 0, 0 };
+            int[] nums2 = { 2, 5, 6 };
+            Merge(nums1, 3, nums2, 3);
         }
 
         // LAC(最近公共祖先)
@@ -183,11 +187,12 @@ namespace TitleProject
             return newHead;
         }
         #endregion
+       
         #region 879 - 动态规划问题
-    /*
+        /*
 
-    */
-    static void ProfitableSchemes()
+        */
+        static void ProfitableSchemes()
         {
 
         }
