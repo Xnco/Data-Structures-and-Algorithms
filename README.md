@@ -1,7 +1,7 @@
 # <span id='top'>Data-Structures-and-Algorithms</span>
 学习 数据结构 和 算法 的时候记录一些东西，锻炼下逻辑。  
 刷LeetCode题库的中的题，一般一道题或者某种算法会给出多种方案，并且分析利弊(时间/空间复杂度)。  
-会不断完善各式算法的问题，完成详情见 <a href="#datastruction">数据结构目录</a>、<a href="#algorithms">算法目录</a> 和 <a href="#directory">LeetCode完成目录</a>。  
+会不断完善各式算法的问题，完成详情见 <a href="#algorithms">算法目录</a> 和 <a href="#directory">LeetCode完成目录</a>。  
 具体代码见工程/.cs文件。
 
 ### 环境要求: 
@@ -23,7 +23,7 @@
 * 归并排序 - MergeSort
 * 快速排序 - QuickSort
   
-## <span id="directory">目前完成目录</span>  
+## <span id="directory">LeetCode目前完成目录</span>  
 题号-题目-难度-解法数量(没写就是一种解法)
 * 1-<font size=4>两数之和</font>-简单-2
 * 2-<font size=4>两数相加</font>-中等
