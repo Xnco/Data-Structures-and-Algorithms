@@ -11,13 +11,9 @@ namespace TitleProject
         static void Main(string[] args)
         {
             //Console.WriteLine(Convert("LEETCODEISHIRING", 3)); 
-
-            int[] nums1 = { 1, 2, 3, 0, 0, 0 };
-            int[] nums2 = { 2, 5, 6 };
-            Merge(nums1, 3, nums2, 3);
         }
 
-        // LAC(最近公共祖先)
+        // LCA(最近公共祖先)
         // DFS(深度优先遍历)
         // BFS(广度优先遍历)
 
@@ -187,7 +183,7 @@ namespace TitleProject
             return newHead;
         }
         #endregion
-       
+        
         #region 879 - 动态规划问题
         /*
 
@@ -204,6 +200,15 @@ namespace TitleProject
             public int val;
             public ListNode next;
             public ListNode(int x) { val = x; }
+        }
+
+        //Definition for a binary tree node.
+        public class TreeNode
+        {
+            public int val;
+            public TreeNode left;
+            public TreeNode right;
+            public TreeNode(int x) { val = x; }
         }
     }
 }
