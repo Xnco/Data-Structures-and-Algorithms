@@ -13,9 +13,6 @@
 * 如果没有离散数学基础的建议的，特别是看目录都懵的，先看[《离散数学及其应用》](https://book.douban.com/subject/2130743/)。
 * LeetCode上的编译时间仅供参考，同一段代码运行两次时间能相差 100ms以上，一次超过5%的人，下一次就可能超过60%的人了。
 
-## <span id="datastruction">数据结构</span>
-* 链表(表) - LinkedList
-
 ## <span id="algorithms">算法</span>
 * 二分查找 - BinarySearch
 * 插入排序 - InsertionSort
