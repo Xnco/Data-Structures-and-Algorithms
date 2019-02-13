@@ -55,6 +55,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0009_回文数", "0009_回�
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001-099", "001-099", "{793A1F85-EB85-418F-9CAB-14955B3A04EE}"
 	ProjectSection(SolutionItems) = preProject
+		0023_合并K个排序链表.cs = 0023_合并K个排序链表.cs
 		0094_二叉树的中序遍历.cs = 0094_二叉树的中序遍历.cs
 	EndProjectSection
 EndProject
