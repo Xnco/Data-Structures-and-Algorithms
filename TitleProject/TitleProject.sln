@@ -54,6 +54,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0009_回文数", "0009_回文数\0009_回文数.csproj", "{556E6D7B-0E6C-46EC-A0C4-6E76D54C856C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001-099", "001-099", "{793A1F85-EB85-418F-9CAB-14955B3A04EE}"
+	ProjectSection(SolutionItems) = preProject
+		0094_二叉树的中序遍历.cs = 0094_二叉树的中序遍历.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "100-199", "100-199", "{8CEAF733-5075-4996-A0C8-8321CDEBFE76}"
 EndProject

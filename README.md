@@ -42,11 +42,13 @@
 * 70-<font size=4>爬楼梯</font>-简单-2
 * 78-<font size=4>子集</font>-中等
 * 88-<font size=4>合并两个有序数组</font>-简单-2
+* 94_<font size=4>二叉树的中序遍历</font>-中等
 * 104-<font size=4>二叉树的最大深度</font>-简单-2
-* 122-<font size=4>买卖股票的最佳时机 II</font>-简单
+* 121-<font size=4>买卖股票的最佳时机</font>-简单
 * 122-<font size=4>买卖股票的最佳时机 II</font>-简单
 * 136_<font size=4>只出现一次的数字</font>-简单-2
 * 137_<font size=4>只出现一次的数字II</font>-中等-2
+* 144_<font size=4>二叉树的前序遍历</font>-中等
 * 169-<font size=4>求众数</font>-简单-2
 * 206-<font size=4>反转链表</font>-简单-2
 * 217-<font size=4>存在重复的元素</font>-简单-3
