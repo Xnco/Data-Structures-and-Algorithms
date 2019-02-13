@@ -11,6 +11,7 @@ namespace TitleProject
         static void Main(string[] args)
         {
             //Console.WriteLine(Convert("LEETCODEISHIRING", 3)); 
+           
         }
 
         // LCA(最近公共祖先)
@@ -19,7 +20,7 @@ namespace TitleProject
 
         #region 0 
         /*
-         
+        
         */
         static void Func()
         {
@@ -82,6 +83,24 @@ namespace TitleProject
 
             }
             return newStr;
+        }
+        #endregion
+        #region 23_合并k个排序链表 
+        /*
+        合并 k 个排序链表，返回合并后的排序链表。请分析和描述算法的复杂度。
+        示例:
+        输入:
+        [
+          1->4->5,
+          1->3->4,
+          2->6
+        ]
+        输出: 1->1->2->3->4->4->5->6
+        */
+        // 暴力将所有链表转换成集合，排序之后再转换成链表
+        static ListNode MergeKLists(ListNode[] lists)
+        {
+
         }
         #endregion
         #region 54_螺旋矩阵
