@@ -68,6 +68,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "100-199", "100-199", "{8CEA
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "200-299", "200-299", "{086156B5-F70A-4C24-908C-4FFCCFD4D34A}"
+	ProjectSection(SolutionItems) = preProject
+		0226_翻转二叉树.cs = 0226_翻转二叉树.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "300-399", "300-399", "{258E0181-7BDA-44A6-94FC-43775303C730}"
 EndProject
