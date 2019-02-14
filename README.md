@@ -35,6 +35,8 @@
 * 21-<font size=4>合并两个有序链表</font>-简单
 * 37-<font size=4>合并 K 个有序链表</font>-<b>困难</b>-2
 * 37-<font size=4>解数独</font>-<b>困难</b>-2
+* 51-<font size=4>N皇后</font>-<b>困难</b>
+* 52-<font size=4>N皇后 II</font>-<b>困难</b>
 * 53-<font size=4>最大子序和</font>-简单
 * 62-<font size=4>不同路径</font>-中等
 * 70-<font size=4>爬楼梯</font>-简单-2
@@ -45,7 +47,7 @@
 * 121-<font size=4>买卖股票的最佳时机</font>-简单
 * 122-<font size=4>买卖股票的最佳时机 II</font>-简单
 * 136_<font size=4>只出现一次的数字</font>-简单-2
-* 137_<font size=4>只出现一次的数字II</font>-中等-2
+* 137_<font size=4>只出现一次的数字 II</font>-中等-2
 * 144_<font size=4>二叉树的前序遍历</font>-中等
 * 145-<font size=4>二叉树的后序遍历</font>-<b>困难</b>
 * 169-<font size=4>求众数</font>-简单-2
