@@ -63,6 +63,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001-099", "001-099", "{793A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "100-199", "100-199", "{8CEAF733-5075-4996-A0C8-8321CDEBFE76}"
 	ProjectSection(SolutionItems) = preProject
+		0101_对称二叉树.cs = 0101_对称二叉树.cs
 		0118_杨辉三角.cs = 0118_杨辉三角.cs
 		0145_二叉树的后序遍历.cs = 0145_二叉树的后序遍历.cs
 	EndProjectSection
