@@ -60,12 +60,13 @@
 * 235 - <font size=4>二叉搜索数的最近公共祖先</font> - 简单
 * 236 - <font size=4>二叉树的最近公共祖先</font> - 中等
 * 237 - <font size=4>删除链表中的节点</font> - 简单
+* 287 - <font size=4>寻找重复数</font> - 中等
 * 292 - <font size=4>Nim游戏</font> - 简单
 * 344 - <font size=4>反转字符串</font> - 简单
 * 414 - <font size=4>最三大的数</font> - 简单  
 * 557 - <font size=4>反转字符串中的单词III</font> - 简单
 * 633 - <font size=4>平方数之和</font> - 简单
-* 771 - <font size=4>宝石和石头</font> - 简单
+* 771 - <font size=4>宝石和石头</font> - 简单 - 2
 * 807 - <font size=4>保持城市天际线</font> - 中等
 
 <a href='#top'> 回到顶部</a>
