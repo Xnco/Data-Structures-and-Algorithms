@@ -126,6 +126,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0144_二叉树的前序遍�
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "011-020", "011-020", "{50F94863-82CD-40C5-8E98-00431E3B3FA2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "900-999", "900-999", "{041DE6BD-943F-470F-92F3-C3C1C41441E6}"
+	ProjectSection(SolutionItems) = preProject
+		0977_有序数组的平方.cs = 0977_有序数组的平方.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

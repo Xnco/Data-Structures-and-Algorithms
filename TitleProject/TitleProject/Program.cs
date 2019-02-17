@@ -11,7 +11,7 @@ namespace TitleProject
         static void Main(string[] args)
         {
             //Console.WriteLine(Convert("LEETCODEISHIRING", 3)); 
-           
+            
         }
 
         // LCA(最近公共祖先)
@@ -238,6 +238,7 @@ namespace TitleProject
 
         }
         #endregion
+        
 
         //Definition for singly-linked list.
         public class ListNode
