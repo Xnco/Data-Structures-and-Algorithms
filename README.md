@@ -68,6 +68,8 @@
 * 633 - <font size=4>平方数之和</font> - 简单
 * 771 - <font size=4>宝石和石头</font> - 简单 - 2
 * 807 - <font size=4>保持城市天际线</font> - 中等
+* 905 - <font size=4>按奇偶排序数组</font> - 简单
+* 985 - <font size=4>查询后的偶数和</font> - 简单
 * 977 - <font size=4>有序数组的平方</font> - 简单 - 2
 
 <a href='#top'> 回到顶部</a>

@@ -128,7 +128,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "011-020", "011-020", "{50F9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "900-999", "900-999", "{041DE6BD-943F-470F-92F3-C3C1C41441E6}"
 	ProjectSection(SolutionItems) = preProject
+		0905_按奇偶排序数组.cs = 0905_按奇偶排序数组.cs
 		0977_有序数组的平方.cs = 0977_有序数组的平方.cs
+		0985_查询后的偶数和.cs = 0985_查询后的偶数和.cs
 	EndProjectSection
 EndProject
 Global
