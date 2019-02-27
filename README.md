@@ -33,8 +33,9 @@
 * 16 - <font size=4>最接近的三数之和</font> - 中等
 * 20 - <font size=4>有效的括号</font> - 简单
 * 21 - <font size=4>合并两个有序链表</font> - 简单
-* 37 - <font size=4>合并 K 个有序链表</font> - <b>困难</b> - 2
+* 23 - <font size=4>合并 K 个有序链表</font> - <b>困难</b> - 2
 * 37 - <font size=4>解数独</font> - <b>困难</b> - 2
+* 46 - <font size=4>全排列</font> - 中等 - 2
 * 51 - <font size=4>N皇后</font> - <b>困难</b>
 * 52 - <font size=4>N皇后 II</font> - <b>困难</b>
 * 53 - <font size=4>最大子序和</font> - 简单
