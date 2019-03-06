@@ -56,6 +56,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001-099", "001-099", "{793A1F85-EB85-418F-9CAB-14955B3A04EE}"
 	ProjectSection(SolutionItems) = preProject
 		0023_合并K个排序链表.cs = 0023_合并K个排序链表.cs
+		0026_删除排序数组中的重复项.cs = 0026_删除排序数组中的重复项.cs
 		0046_全排列.cs = 0046_全排列.cs
 		0051_N皇后.cs = 0051_N皇后.cs
 		0052_N皇后II.cs = 0052_N皇后II.cs
