@@ -69,6 +69,15 @@ namespace _0236_二叉树的最近公共祖先
             }
             return null; // 都找不到就返回null
         }
+
+        //Definition for a binary tree node.
+        public class TreeNode
+        {
+            public int val;
+            public TreeNode left;
+            public TreeNode right;
+            public TreeNode(int x) { val = x; }
+        }
         #endregion
     }
 }

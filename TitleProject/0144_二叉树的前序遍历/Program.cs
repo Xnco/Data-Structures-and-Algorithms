@@ -56,6 +56,15 @@ namespace _0144_二叉树的前序遍历
             CompleteNode(root.right, result);
         }
 
+        //Definition for a binary tree node.
+        public class TreeNode
+        {
+            public int val;
+            public TreeNode left;
+            public TreeNode right;
+            public TreeNode(int x) { val = x; }
+        }
+
         #endregion
     }
 }
