@@ -2,11 +2,13 @@
 学习 数据结构 和 算法 的时候记录一些东西，锻炼下逻辑。  
 刷LeetCode题库的中的题，一般一道题或者某种算法会给出多种方案，并且分析利弊(时间/空间复杂度)。  
 会不断完善各式算法的问题，完成详情见 <a href="#algorithms">算法目录</a> 和 <a href="#directory">LeetCode完成目录</a>。  
-具体代码见工程/.cs文件。
 
 ### 环境要求: 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/) 最新版  
 * 或者随意编辑器打开, Copy代码到 [LeetCode](https://leetcode-cn.com/problemset/all/) 中可提交运行
+
+### 语言: 
+* C#, C++ 
 
 ### Tip:  
 * 推荐书籍[《数据结构与算法分析》](https://book.douban.com/subject/1139426/)、[《编程珠玑》](https://book.douban.com/subject/3227098/)、[《算法导论》](https://book.douban.com/subject/20432061/)。
@@ -68,6 +70,7 @@
 * 292 - <font size=4>Nim游戏</font> - 简单
 * 344 - <font size=4>反转字符串</font> - 简单
 * 414 - <font size=4>最三大的数</font> - 简单  
+* 509 - <font size=4>斐波那契数</font> - 简单 
 * 557 - <font size=4>反转字符串中的单词III</font> - 简单
 * 617 - <font size=4>合并二叉树</font> - 简单
 * 633 - <font size=4>平方数之和</font> - 简单
