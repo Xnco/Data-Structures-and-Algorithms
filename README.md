@@ -70,10 +70,11 @@
 * 292 - <font size=4>Nim游戏</font> - 简单
 * 344 - <font size=4>反转字符串</font> - 简单
 * 414 - <font size=4>最三大的数</font> - 简单  
-* 509 - <font size=4>斐波那契数</font> - 简单 
+* 509 - <font size=4>斐波那契数</font> - 简单 - 2
 * 557 - <font size=4>反转字符串中的单词III</font> - 简单
 * 617 - <font size=4>合并二叉树</font> - 简单
 * 633 - <font size=4>平方数之和</font> - 简单
+* 704 - <font size=4>二分查找</font> - 简单
 * 709 - <font size=4>转换成小写字母</font> - 简单
 * 771 - <font size=4>宝石和石头</font> - 简单 - 2
 * 807 - <font size=4>保持城市天际线</font> - 中等

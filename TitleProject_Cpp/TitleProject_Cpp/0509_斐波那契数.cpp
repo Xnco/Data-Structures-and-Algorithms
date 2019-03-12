@@ -19,7 +19,7 @@
 	提示：
 	0 ≤ N ≤ 30
 */
-// 48ms, 几乎最慢 - 递归太慢了
+// 48ms, 8.4MB 几乎最慢 - 递归太慢了
 int fib(int N) {
 	if (N == 1)
 	{
@@ -33,9 +33,29 @@ int fib(int N) {
 	return fib(N - 1) + fib(N - 2);
 }
 
-// 迭代
+// 迭代 - 8ms(43%), 8.2MB
 int fib2(int N) {
-	
+	if (N == 1 || N == 2)
+	{
+		return 1;
+	}
+	else if (N == 0)
+	{
+		return 0;
+	}
+
+	int x = 0;
+	int y = 1;
+	int z = 0;
+	int count = 2;
+	while (count <= N)
+	{
+		z = x + y;
+		x = y;
+		y = z;
+		count++;
+	}
+	return z;
 }
 
 #pragma endregion
