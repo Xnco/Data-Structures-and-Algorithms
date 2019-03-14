@@ -154,6 +154,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="0383_移动零.cpp" />
     <ClCompile Include="0509_斐波那契数.cpp" />
     <ClCompile Include="0704_二分查找.cpp" />
     <ClCompile Include="pch.cpp">
