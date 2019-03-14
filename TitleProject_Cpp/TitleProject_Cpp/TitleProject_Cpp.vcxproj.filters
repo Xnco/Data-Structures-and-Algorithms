@@ -35,5 +35,8 @@
     <ClCompile Include="0383_移动零.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="0589_N叉树的前序遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

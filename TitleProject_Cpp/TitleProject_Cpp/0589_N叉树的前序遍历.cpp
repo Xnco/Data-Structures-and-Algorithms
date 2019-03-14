@@ -32,9 +32,14 @@ public:
 		{
 			return {};
 		}
-		vector<int> result = {};
+		//vector<int> result = {};
 		//PreOrder(root, result);
-		return result;
+		//return result;
+
+		vector<int> result = {};
+		vector<int>* resultPointer = &result;
+		PreOrder2(root, resultPointer);
+		return *resultPointer;
 	}
 
 	void PreOrder(Node* root, vector<int>& result)
@@ -51,7 +56,7 @@ public:
 		result->push_back(root->val);
 		for (size_t i = 0; i < root->children.size(); i++)
 		{
-			PreOrder(root->children[i], result);
+			PreOrder2(root->children[i], result);
 		}
 	}
 };
