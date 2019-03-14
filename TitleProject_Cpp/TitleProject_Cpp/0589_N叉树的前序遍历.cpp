@@ -1,6 +1,7 @@
 #include "pch.h";
 #include <iostream>;
 #include <vector>;
+#include <stack>;
 
 using namespace std;
 
@@ -36,7 +37,7 @@ public:
 		//PreOrder(root, result);
 		//return result;
 
-		vector<int> result = {};
+		vector<int> result;
 		vector<int>* resultPointer = &result;
 		PreOrder2(root, resultPointer);
 		return *resultPointer;
@@ -58,6 +59,29 @@ public:
 		{
 			PreOrder2(root->children[i], result);
 		}
+	}
+
+	vector<int> preorder2(Node* root) {
+		if (root == NULL)
+		{
+			return {};
+		}
+		
+		vector<int> result;
+		stack<Node*> s;
+		s.push(root);
+
+		while (s.size() != 0)
+		{
+			Node* node = s.top();
+			s.pop();
+			result.push_back(node->val);
+			for (size_t i = node->children.size() - 1; i > -1 ; i--)
+			{
+				s.push((node->children)[i]);
+			}
+		}
+		return result;
 	}
 };
 #pragma endregion
