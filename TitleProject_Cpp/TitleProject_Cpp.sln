@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TitleProject_Cpp", "TitleProject_Cpp\TitleProject_Cpp.vcxproj", "{7F6D48B3-233D-479A-AD77-D78F3996DC83}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}"
+	ProjectSection(SolutionItems) = preProject
+		0022_括号生成.cpp = 0022_括号生成.cpp
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64

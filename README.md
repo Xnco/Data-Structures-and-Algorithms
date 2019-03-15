@@ -35,6 +35,7 @@
 * 16 - <font size=4>最接近的三数之和</font> - 中等
 * 20 - <font size=4>有效的括号</font> - 简单
 * 21 - <font size=4>合并两个有序链表</font> - 简单
+* 22 - <font size=4>括号生成</font> - 中等
 * 23 - <font size=4>合并 K 个有序链表</font> - <b>困难</b> - 2
 * 26 - <font size=4>删除排序数组中的重复项</font> - 简单
 * 33 - <font size=4>搜索旋转数组排序数组</font> - 中等 - 2
