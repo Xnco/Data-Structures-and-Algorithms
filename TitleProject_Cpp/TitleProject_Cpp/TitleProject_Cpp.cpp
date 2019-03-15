@@ -18,6 +18,7 @@ int main()
 */
 #pragma endregion
 
+
 class Node {
 public:
 	int val;

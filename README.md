@@ -40,6 +40,7 @@
 * 26 - <font size=4>删除排序数组中的重复项</font> - 简单
 * 33 - <font size=4>搜索旋转数组排序数组</font> - 中等 - 2
 * 37 - <font size=4>解数独</font> - <b>困难</b> - 2
+* 39 - <font size=4>组合总和</font> - 中等
 * 46 - <font size=4>全排列</font> - 中等 - 2
 * 51 - <font size=4>N皇后</font> - <b>困难</b>
 * 52 - <font size=4>N皇后 II</font> - <b>困难</b>
@@ -59,6 +60,7 @@
 * 137 - <font size=4>只出现一次的数字 II</font> - 中等 - 2
 * 144 - <font size=4>二叉树的前序遍历</font> - 中等
 * 145 - <font size=4>二叉树的后序遍历</font> - <b>困难</b>
+* 162 - <font size=4>寻找峰值</font> - 中等
 * 169 - <font size=4>求众数</font> - 简单 - 2
 * 206 - <font size=4>反转链表</font> - 简单 - 2
 * 217 - <font size=4>存在重复的元素</font> - 简单 - 3
