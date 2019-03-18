@@ -73,6 +73,7 @@
 * 287 - <font size=4>寻找重复数</font> - 中等
 * 292 - <font size=4>Nim游戏</font> - 简单
 * 344 - <font size=4>反转字符串</font> - 简单
+* 413 - <font size=4>等差数列划分</font> - 中等
 * 414 - <font size=4>最三大的数</font> - 简单  
 * 509 - <font size=4>斐波那契数</font> - 简单 - 2
 * 557 - <font size=4>反转字符串中的单词III</font> - 简单
