@@ -154,10 +154,6 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0383_移动零.cpp" />
-    <ClCompile Include="0509_斐波那契数.cpp" />
-    <ClCompile Include="0589_N叉树的前序遍历.cpp" />
-    <ClCompile Include="0704_二分查找.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

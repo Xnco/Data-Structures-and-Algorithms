@@ -66,7 +66,7 @@ public:
 		{
 			return {};
 		}
-		
+
 		vector<int> result;
 		stack<Node*> s;
 		s.push(root);
@@ -76,7 +76,7 @@ public:
 			Node* node = s.top();
 			s.pop();
 			result.push_back(node->val);
-			for (size_t i = node->children.size() - 1; i > -1 ; i--)
+			for (size_t i = node->children.size() - 1; i > -1; i--)
 			{
 				s.push((node->children)[i]);
 			}
