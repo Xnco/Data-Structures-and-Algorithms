@@ -54,6 +54,7 @@
 * 101 - <font size=4>对称二叉树</font> - 简单
 * 104 - <font size=4>二叉树的最大深度</font> - 简单 - 2
 * 118 - <font size=4>杨辉三角</font> - 简单
+* 119 - <font size=4>杨辉三角 II</font> - 简单
 * 121 - <font size=4>买卖股票的最佳时机</font> - 简单
 * 122 - <font size=4>买卖股票的最佳时机 II</font> - 简单
 * 136 - <font size=4>只出现一次的数字</font> - 简单 - 2
@@ -74,6 +75,7 @@
 * 292 - <font size=4>Nim游戏</font> - 简单
 * 344 - <font size=4>反转字符串</font> - 简单
 * 413 - <font size=4>等差数列划分</font> - 中等
+* 412 - <font size=4>FizzBuzz</font> - 简单  
 * 414 - <font size=4>最三大的数</font> - 简单  
 * 509 - <font size=4>斐波那契数</font> - 简单 - 2
 * 557 - <font size=4>反转字符串中的单词III</font> - 简单
