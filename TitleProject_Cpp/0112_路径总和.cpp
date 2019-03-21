@@ -35,47 +35,14 @@
  // DFS(深度优先遍历)
 class Solution {
 
-	// 28ms, 19.9MB
+	// 16ms(99.8%), 19.9MB
 	// 递归算法
 public:
 	bool hasPathSum(TreeNode* root, int sum) {
-		int result = 0;
-		return AddNumber(root, sum, result);
-	}
-
-	bool AddNumber(TreeNode* node, int& sum, int& result)
-	{
-		if (node == nullptr)
-		{
-			return false;
-		}
-
-		result += node->val;
-		if (node->left != nullptr)
-		{
-			if (AddNumber(node->left, sum, result))
-			{
-				return true;
-			}
-		}
-
-		if (node->right != nullptr)
-		{
-			if (AddNumber(node->right, sum, result))
-			{
-				return true;
-			}
-		}
-
-		if (node->right == nullptr && node->left == nullptr)
-		{
-			if (sum == result)
-			{
-				return true;
-			}
-		}
-		result -= node->val;
-		return false;
+		if (root == nullptr) return false;
+		sum -= root->val;
+		if (root->right == nullptr && root->left == nullptr) return sum == 0;
+		return hasPathSum(root->left, sum) || hasPathSum(root->right, sum);
 	}
 
 	// 迭代
@@ -98,7 +65,21 @@ public:
 			{
 				nodeS.push(cur->right);
 			}
+
+			if (cur->left != nullptr)
+			{
+				nodeS.push(cur->left);
+			}
+
+			if (node->right == nullptr && node->left == nullptr)
+			{
+				if (result == sum)
+				{
+					return true;
+				}
+			}
 		}
+		return false;
 	}
 };
 
