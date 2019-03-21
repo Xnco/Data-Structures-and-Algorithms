@@ -1,14 +1,14 @@
-#include "pch.h";
+ï»¿#include "pch.h";
 #include <iostream>;
 #include <vector>;
 #include <stack>;
 
 using namespace std;
 
-#pragma region 589_N²æÊ÷µÄÇ°Ðò±éÀú
+#pragma region 589_Nå‰æ ‘çš„å‰åºéåŽ†
 /*
-¸ø¶¨Ò»¸ö N ²æÊ÷£¬·µ»ØÆä½ÚµãÖµµÄÇ°Ðò±éÀú¡£
-ËµÃ÷: µÝ¹é·¨ºÜ¼òµ¥£¬Äã¿ÉÒÔÊ¹ÓÃµü´ú·¨Íê³É´ËÌâÂð?
+ç»™å®šä¸€ä¸ª N å‰æ ‘ï¼Œè¿”å›žå…¶èŠ‚ç‚¹å€¼çš„å‰åºéåŽ†ã€‚
+è¯´æ˜Ž: é€’å½’æ³•å¾ˆç®€å•ï¼Œä½ å¯ä»¥ä½¿ç”¨è¿­ä»£æ³•å®Œæˆæ­¤é¢˜å—?
 */
 
 // Definition for a Node.

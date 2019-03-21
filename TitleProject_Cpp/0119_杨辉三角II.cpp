@@ -1,18 +1,18 @@
-#include "pch.h";
+ï»¿#include "pch.h";
 #include <iostream>;
 #include <vector>;
 
 using namespace std;
 
-#pragma region 119_Ñî»ÔÈý½ÇII
+#pragma region 119_æ¨è¾‰ä¸‰è§’II
 /*
-¸ø¶¨Ò»¸ö·Ç¸ºË÷Òý k£¬ÆäÖÐ k ¡Ü 33£¬·µ»ØÑî»ÔÈý½ÇµÄµÚ k ÐÐ¡£
-ÔÚÑî»ÔÈý½ÇÖÐ£¬Ã¿¸öÊýÊÇËü×óÉÏ·½ºÍÓÒÉÏ·½µÄÊýµÄºÍ¡£
-Ê¾Àý:
-ÊäÈë: 3
-Êä³ö: [1,3,3,1]
-½ø½×£º
-Äã¿ÉÒÔÓÅ»¯ÄãµÄËã·¨µ½ O(k) ¿Õ¼ä¸´ÔÓ¶ÈÂð£¿
+ç»™å®šä¸€ä¸ªéžè´Ÿç´¢å¼• kï¼Œå…¶ä¸­ k â‰¤ 33ï¼Œè¿”å›žæ¨è¾‰ä¸‰è§’çš„ç¬¬ k è¡Œã€‚
+åœ¨æ¨è¾‰ä¸‰è§’ä¸­ï¼Œæ¯ä¸ªæ•°æ˜¯å®ƒå·¦ä¸Šæ–¹å’Œå³ä¸Šæ–¹çš„æ•°çš„å’Œã€‚
+ç¤ºä¾‹:
+è¾“å…¥: 3
+è¾“å‡º: [1,3,3,1]
+è¿›é˜¶ï¼š
+ä½ å¯ä»¥ä¼˜åŒ–ä½ çš„ç®—æ³•åˆ° O(k) ç©ºé—´å¤æ‚åº¦å—ï¼Ÿ
 */
 // 8ms, 8.3MB
 class Solution {

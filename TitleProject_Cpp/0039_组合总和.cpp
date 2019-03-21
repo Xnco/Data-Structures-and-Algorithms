@@ -1,34 +1,34 @@
-
+ï»¿
 #include "pch.h";
 #include <iostream>;
 #include <vector>;
 
 using namespace std;
 
-#pragma region 39_×éºÏ×ÜºÍ
+#pragma region 39_ç»„åˆæ€»å’Œ
 /*
-¸ø¶¨Ò»¸öÎŞÖØ¸´ÔªËØµÄÊı×é candidates ºÍÒ»¸öÄ¿±êÊı target £¬ÕÒ³ö candidates ÖĞËùÓĞ¿ÉÒÔÊ¹Êı×ÖºÍÎª target µÄ×éºÏ¡£
-candidates ÖĞµÄÊı×Ö¿ÉÒÔÎŞÏŞÖÆÖØ¸´±»Ñ¡È¡¡£
-ËµÃ÷£º
-ËùÓĞÊı×Ö£¨°üÀ¨ target£©¶¼ÊÇÕıÕûÊı¡£
-½â¼¯²»ÄÜ°üº¬ÖØ¸´µÄ×éºÏ¡£
-Ê¾Àı 1:
-ÊäÈë: candidates = [2,3,6,7], target = 7,
-ËùÇó½â¼¯Îª:
+ç»™å®šä¸€ä¸ªæ— é‡å¤å…ƒç´ çš„æ•°ç»„ candidates å’Œä¸€ä¸ªç›®æ ‡æ•° target ï¼Œæ‰¾å‡º candidates ä¸­æ‰€æœ‰å¯ä»¥ä½¿æ•°å­—å’Œä¸º target çš„ç»„åˆã€‚
+candidates ä¸­çš„æ•°å­—å¯ä»¥æ— é™åˆ¶é‡å¤è¢«é€‰å–ã€‚
+è¯´æ˜ï¼š
+æ‰€æœ‰æ•°å­—ï¼ˆåŒ…æ‹¬ targetï¼‰éƒ½æ˜¯æ­£æ•´æ•°ã€‚
+è§£é›†ä¸èƒ½åŒ…å«é‡å¤çš„ç»„åˆã€‚
+ç¤ºä¾‹ 1:
+è¾“å…¥: candidates = [2,3,6,7], target = 7,
+æ‰€æ±‚è§£é›†ä¸º:
 [
   [7],
   [2,2,3]
 ]
-Ê¾Àı 2:
-ÊäÈë: candidates = [2,3,5], target = 8,
-ËùÇó½â¼¯Îª:
+ç¤ºä¾‹ 2:
+è¾“å…¥: candidates = [2,3,5], target = 8,
+æ‰€æ±‚è§£é›†ä¸º:
 [
   [2,2,2,2],
   [2,3,3],
   [3,5]
 ]
 */
-// »ØËİËã·¨ - 40ms(»÷°Ü9%), 10.3MB
+// å›æº¯ç®—æ³• - 40ms(å‡»è´¥9%), 10.3MB
 class Solution {
 public:
 	vector<vector<int>> combinationSum(vector<int>& candidates, int target) {

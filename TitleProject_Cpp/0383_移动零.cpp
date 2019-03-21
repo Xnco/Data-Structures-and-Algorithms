@@ -1,21 +1,21 @@
-#include "pch.h";
+ï»¿#include "pch.h";
 #include <iostream>;
 #include <vector>;
 
 using namespace std;
 
-#pragma region 283_ÒÆ¶¯Áã
+#pragma region 283_ç§»åŠ¨é›¶
 /*
-¸ø¶¨Ò»¸öÊý×é nums£¬±àÐ´Ò»¸öº¯Êý½«ËùÓÐ 0 ÒÆ¶¯µ½Êý×éµÄÄ©Î²£¬Í¬Ê±±£³Ö·ÇÁãÔªËØµÄÏà¶ÔË³Ðò¡£
+ç»™å®šä¸€ä¸ªæ•°ç»„ numsï¼Œç¼–å†™ä¸€ä¸ªå‡½æ•°å°†æ‰€æœ‰ 0 ç§»åŠ¨åˆ°æ•°ç»„çš„æœ«å°¾ï¼ŒåŒæ—¶ä¿æŒéžé›¶å…ƒç´ çš„ç›¸å¯¹é¡ºåºã€‚
 
-Ê¾Àý:
+ç¤ºä¾‹:
 
-ÊäÈë: [0,1,0,3,12]
-Êä³ö: [1,3,12,0,0]
-ËµÃ÷:
+è¾“å…¥: [0,1,0,3,12]
+è¾“å‡º: [1,3,12,0,0]
+è¯´æ˜Ž:
 
-±ØÐëÔÚÔ­Êý×éÉÏ²Ù×÷£¬²»ÄÜ¿½±´¶îÍâµÄÊý×é¡£
-¾¡Á¿¼õÉÙ²Ù×÷´ÎÊý¡£
+å¿…é¡»åœ¨åŽŸæ•°ç»„ä¸Šæ“ä½œï¼Œä¸èƒ½æ‹·è´é¢å¤–çš„æ•°ç»„ã€‚
+å°½é‡å‡å°‘æ“ä½œæ¬¡æ•°ã€‚
 */
 class Solution {
 public:

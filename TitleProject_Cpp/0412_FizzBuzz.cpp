@@ -1,4 +1,4 @@
-#include "pch.h";
+ï»¿#include "pch.h";
 #include <iostream>;
 #include <vector>;
 #include <sstream>;
@@ -7,13 +7,13 @@ using namespace std;
 
 #pragma region 412_Fizz Buzz
 /*
-Ð´Ò»¸ö³ÌÐò£¬Êä³ö´Ó 1 µ½ n Êý×ÖµÄ×Ö·û´®±íÊ¾¡£
-1. Èç¹û n ÊÇ3µÄ±¶Êý£¬Êä³ö¡°Fizz¡±£»
-2. Èç¹û n ÊÇ5µÄ±¶Êý£¬Êä³ö¡°Buzz¡±£»
-3.Èç¹û n Í¬Ê±ÊÇ3ºÍ5µÄ±¶Êý£¬Êä³ö ¡°FizzBuzz¡±¡£
-Ê¾Àý£º
+å†™ä¸€ä¸ªç¨‹åºï¼Œè¾“å‡ºä»Ž 1 åˆ° n æ•°å­—çš„å­—ç¬¦ä¸²è¡¨ç¤ºã€‚
+1. å¦‚æžœ n æ˜¯3çš„å€æ•°ï¼Œè¾“å‡ºâ€œFizzâ€ï¼›
+2. å¦‚æžœ n æ˜¯5çš„å€æ•°ï¼Œè¾“å‡ºâ€œBuzzâ€ï¼›
+3.å¦‚æžœ n åŒæ—¶æ˜¯3å’Œ5çš„å€æ•°ï¼Œè¾“å‡º â€œFizzBuzzâ€ã€‚
+ç¤ºä¾‹ï¼š
 n = 15,
-·µ»Ø:
+è¿”å›ž:
 [
 	"1",
 	"2",
@@ -32,7 +32,7 @@ n = 15,
 	"FizzBuzz"
 ]
 */
-// 28ms(»÷°Ü1%), 10.3MB
+// 28ms(å‡»è´¥1%), 10.3MB
 class Solution {
 public:
 	vector<string> fizzBuzz(int n) {

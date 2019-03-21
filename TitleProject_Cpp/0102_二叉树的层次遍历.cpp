@@ -1,4 +1,4 @@
-
+ï»¿
 #include "pch.h";
 #include <iostream>;
 #include <vector>;
@@ -6,17 +6,17 @@
 
 using namespace std;
 
-#pragma region 102_¶þ²æÊ÷µÄ²ã´Î±éÀú
+#pragma region 102_äºŒå‰æ ‘çš„å±‚æ¬¡éåŽ†
 /*
-¸ø¶¨Ò»¸ö¶þ²æÊ÷£¬·µ»ØÆä°´²ã´Î±éÀúµÄ½ÚµãÖµ¡£ £¨¼´Öð²ãµØ£¬´Ó×óµ½ÓÒ·ÃÎÊËùÓÐ½Úµã£©¡£
-ÀýÈç:
-¸ø¶¨¶þ²æÊ÷: [3,9,20,null,null,15,7],
+ç»™å®šä¸€ä¸ªäºŒå‰æ ‘ï¼Œè¿”å›žå…¶æŒ‰å±‚æ¬¡éåŽ†çš„èŠ‚ç‚¹å€¼ã€‚ ï¼ˆå³é€å±‚åœ°ï¼Œä»Žå·¦åˆ°å³è®¿é—®æ‰€æœ‰èŠ‚ç‚¹ï¼‰ã€‚
+ä¾‹å¦‚:
+ç»™å®šäºŒå‰æ ‘: [3,9,20,null,null,15,7],
 	3
    / \
   9  20
 	/  \
    15   7
-·µ»ØÆä²ã´Î±éÀú½á¹û£º
+è¿”å›žå…¶å±‚æ¬¡éåŽ†ç»“æžœï¼š
 [
   [3],
   [9,20],
@@ -32,7 +32,7 @@ struct TreeNode {
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
  
-// Á¦¿Û - 24ms(»÷°Ü4.3%), 13.7MB  ===  Leetcode - 8ms »÷°Ü100%??? 13.8MB
+// åŠ›æ‰£ - 24ms(å‡»è´¥4.3%), 13.7MB  ===  Leetcode - 8ms å‡»è´¥100%??? 13.8MB
 class Solution {
 public:
 	vector<vector<int>> levelOrder(TreeNode* root) {

@@ -1,4 +1,4 @@
-#include "pch.h";
+ï»¿#include "pch.h";
 #include <iostream>;
 #include <vector>;
 #include <string>;
@@ -7,11 +7,11 @@
 
 using namespace std;
 
-#pragma region 22_À¨ºÅÉú³É
+#pragma region 22_æ‹¬å·ç”Ÿæˆ
 /*
-¸ø³ö n ´ú±íÉú³ÉÀ¨ºÅµÄ¶ÔÊı£¬ÇëÄãĞ´³öÒ»¸öº¯Êı£¬Ê¹ÆäÄÜ¹»Éú³ÉËùÓĞ¿ÉÄÜµÄ²¢ÇÒÓĞĞ§µÄÀ¨ºÅ×éºÏ¡£
+ç»™å‡º n ä»£è¡¨ç”Ÿæˆæ‹¬å·çš„å¯¹æ•°ï¼Œè¯·ä½ å†™å‡ºä¸€ä¸ªå‡½æ•°ï¼Œä½¿å…¶èƒ½å¤Ÿç”Ÿæˆæ‰€æœ‰å¯èƒ½çš„å¹¶ä¸”æœ‰æ•ˆçš„æ‹¬å·ç»„åˆã€‚
 
-ÀıÈç£¬¸ø³ö n = 3£¬Éú³É½á¹ûÎª£º
+ä¾‹å¦‚ï¼Œç»™å‡º n = 3ï¼Œç”Ÿæˆç»“æœä¸ºï¼š
 
 [
   "((()))",
@@ -21,7 +21,7 @@ using namespace std;
   "()()()"
 ]
 */
-// 44ms, 24.6MB, ¼¸ºõ×îÂıÁË
+// 44ms, 24.6MB, å‡ ä¹æœ€æ…¢äº†
 class Solution {
 public:
 	vector<string> generateParenthesis(int n) {
@@ -39,7 +39,7 @@ public:
 	void AddBrackets(int n, int count, string s, stack<string> left, vector<string>& result) {
 		if (left.empty() && count != n)
 		{
-			// Õ»ÖĞÃ»ÓĞ (, ´ËÊ±Ö»ÄÜ¼Ó ( 
+			// æ ˆä¸­æ²¡æœ‰ (, æ­¤æ—¶åªèƒ½åŠ  ( 
 			left.push("(");
 			AddBrackets(n, count + 1, s + "(", left, result);
 		}
@@ -55,12 +55,12 @@ public:
 			}
 			else
 			{
-				// ¿ÉÒÔ¼Ó (
+				// å¯ä»¥åŠ  (
 				left.push("(");
 				AddBrackets(n, count + 1, s + "(", left, result);
 				left.pop();
 
-				// Ò²¿ÉÒÔ¼Ó )
+				// ä¹Ÿå¯ä»¥åŠ  )
 				left.pop();
 				AddBrackets(n, count, s + ")", left, result);
 			}
