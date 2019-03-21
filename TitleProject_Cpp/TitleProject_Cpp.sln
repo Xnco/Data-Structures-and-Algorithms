@@ -17,6 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		0383_移动零.cpp = 0383_移动零.cpp
 		0412_FizzBuzz.cpp = 0412_FizzBuzz.cpp
 		0413_等差数列划分.cpp = 0413_等差数列划分.cpp
+		0437_路径总和 III.cpp = 0437_路径总和 III.cpp
 		0509_斐波那契数.cpp = 0509_斐波那契数.cpp
 		0589_N叉树的前序遍历.cpp = 0589_N叉树的前序遍历.cpp
 		0704_二叉查找.cpp = 0704_二叉查找.cpp
