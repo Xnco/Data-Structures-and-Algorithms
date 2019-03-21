@@ -5,6 +5,7 @@
 #include <iostream>;
 #include <vector>;
 #include <sstream>;
+#include <stack>;
 
 using namespace std;
 
@@ -18,6 +19,7 @@ int main()
 	
 */
 #pragma endregion
+
 
 
 //Definition for a binary tree node.
