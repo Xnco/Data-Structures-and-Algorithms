@@ -1,4 +1,4 @@
-# <span id='top'>Data-Structures-and-Algorithms</span>
+﻿# <span id='top'>Data-Structures-and-Algorithms</span>
 学习 数据结构 和 算法 的时候记录一些东西，锻炼下逻辑。  
 刷LeetCode题库的中的题，一般一道题或者某种算法会给出多种方案，并且分析利弊(时间/空间复杂度)。  
 会不断完善各式算法的问题，完成详情见 <a href="#algorithms">算法目录</a> 和 <a href="#directory">LeetCode完成目录</a>。  
@@ -82,6 +82,7 @@
 * 414 - <font size=4>最三大的数</font> - 简单  
 * 437 - <font size=4>路径总和 III</font> - 简单 
 * 509 - <font size=4>斐波那契数</font> - 简单 - 2
+* 553 - <font size=4>最优除法</font> - 中等
 * 557 - <font size=4>反转字符串中的单词 III</font> - 简单
 * 589 - <font size=4>N叉树的前序遍历</font> - 简单
 * 617 - <font size=4>合并二叉树</font> - 简单

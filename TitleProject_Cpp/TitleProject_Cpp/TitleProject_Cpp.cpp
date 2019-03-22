@@ -9,18 +9,11 @@
 
 using namespace std;
 
-int main()
-{
-	
-}
-
 #pragma region 0_
 /*
 	
 */
 #pragma endregion
-
-
 
 //Definition for a binary tree node.
 struct TreeNode {
@@ -44,4 +37,7 @@ public:
 };
 
 
+int main()
+{
 
+}
