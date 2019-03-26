@@ -15,45 +15,6 @@ using namespace std;
 */
 #pragma endregion
 
-#pragma region 106_从中序与后序遍历序列构造二叉树
-/*
-根据一棵树的中序遍历与后序遍历构造二叉树。
-注意:
-你可以假设树中没有重复的元素。
-例如，给出
-中序遍历 inorder = [9,3,15,20,7]
-后序遍历 postorder = [9,15,7,20,3]
-返回如下的二叉树：
-	3
-   / \
-  9  20
-	/  \
-   15   7
-*/
-
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
-class Solution {
-public:
-	TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-		int p_len = postorder.size();
-
-		TreeNode root(postorder[p_len - 1]);
-		TreeNode* root_p = &root;
-
-		// postorder的最后一个注定是root, root在inorder的位置将树分为左右两边, 二分
-		
-	}
-};
-#pragma endregion
-
 #pragma region 204_计数质数
 /*
 统计所有小于非负整数 n 的质数的数量。
@@ -102,7 +63,7 @@ public:
 		{
 			return 0;
 		}
-		vector<bool> arr(n + 1);
+		vector<bool> arr(n + 1, 0);
 		// 0, 1 不是质数
 		arr[0] = 1;
 		arr[1] = 1;
@@ -124,7 +85,6 @@ public:
 };
 
 #define MAXN 100
-
 // 数组
 bool flag[MAXN] = { 0 };    //将标识初始化为true
 void erat(int maxn)
