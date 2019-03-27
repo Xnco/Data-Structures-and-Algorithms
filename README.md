@@ -54,6 +54,7 @@
 * 101 - <font size=4>对称二叉树</font> - 简单
 * 102 - <font size=4>二叉树的层次遍历</font> - 中等
 * 104 - <font size=4>二叉树的最大深度</font> - 简单 - 2
+* 105 - <font size=4>从前序与中序遍历序列构造二叉树</font> - 中等
 * 106 - <font size=4>从中序与后序遍历序列构造二叉树</font> - 中等
 * 112 - <font size=4>路径总和</font> - 简单
 * 113 - <font size=4>路径总和 II</font> - 中等
