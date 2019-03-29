@@ -91,6 +91,7 @@
 * 633 - <font size=4>平方数之和</font> - 简单
 * 704 - <font size=4>二分查找</font> - 简单
 * 709 - <font size=4>转换成小写字母</font> - 简单
+* 713 - <font size=4>乘积小于K的子数组</font> - 中等
 * 771 - <font size=4>宝石和石头</font> - 简单 - 2
 * 807 - <font size=4>保持城市天际线</font> - 中等
 * 905 - <font size=4>按奇偶排序数组</font> - 简单
