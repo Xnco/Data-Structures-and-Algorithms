@@ -15,6 +15,8 @@ using namespace std;
 */
 #pragma endregion
 
+
+
 #pragma region 179_最大数
 /*
 给定一组非负整数，重新排列它们的顺序使之组成一个最大的整数。
@@ -123,6 +125,79 @@ void erat(int maxn)
 	}
 }
 #pragma endregion
+#pragma region 687_最长同值路径
+/*
+给定一个二叉树，找到最长的路径，这个路径中的每个节点具有相同值。 这条路径可以经过也可以不经过根节点。
+注意：两个节点之间的路径长度由它们之间的边数表示。
+示例 1:
+输入:
+			  5
+			 / \
+			4   5
+		   / \   \
+		  1   1   5
+输出:
+2
+示例 2:
+输入:
+			  1
+			 / \
+			4   5
+		   / \   \
+		  4   4   5
+输出:
+2
+注意: 给定的二叉树不超过10000个结点。 树的高度不超过1000。
+*/
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+class Solution {
+public:
+	int longestUnivaluePath(TreeNode* root) {
+		if (root == nullptr)
+		{
+			return 0;
+		}
+		int res = 1;
+		int cur = 0;
+		DFS(root->left, root->val, cur, res);
+		DFS(root->right, root->val, cur, res);
+		return res;
+	}
+
+	void DFS(TreeNode* root, int parent, int cur, int& res)
+	{
+		if (root == nullptr)
+		{
+			return;
+		}
+
+		if (root->val == parent)
+		{
+			cur++;
+			if (cur > res)
+			{
+				res = cur;
+			}
+		}
+		else
+		{
+			cur = 0;
+		}
+
+		DFS(root->left, root->val, cur, res);
+		DFS(root->right, root->val, cur, res);
+	}
+};
+
+#pragma endregion
 #pragma region 889_根据前序和后序遍历构造二叉树
 /*
 返回与给定的前序和后序遍历匹配的任何二叉树。
@@ -151,8 +226,6 @@ public:
 	}
 };
 #pragma endregion
-
-
 
 //Definition for a binary tree node.
 struct TreeNode {

@@ -66,6 +66,7 @@
 * 137 - <font size=4>只出现一次的数字 II</font> - 中等 - 2
 * 144 - <font size=4>二叉树的前序遍历</font> - 中等
 * 145 - <font size=4>二叉树的后序遍历</font> - <b>困难</b>
+* 153 - <font size=4>寻找旋转排序数组中的最小值</font> - 中等 - 2
 * 162 - <font size=4>寻找峰值</font> - 中等
 * 169 - <font size=4>求众数</font> - 简单 - 2
 * 206 - <font size=4>反转链表</font> - 简单 - 2
