@@ -7,6 +7,7 @@
 #include <sstream>;
 #include <stack>;
 #include <math.h>
+#include <algorithm>
 
 using namespace std;
 
@@ -31,7 +32,32 @@ using namespace std;
 class Solution {
 public:
 	string largestNumber(vector<int>& nums) {
+		sort(nums.begin(), nums.end(), func_sort);
+		string str = "";
+		for (size_t i = 0; i < nums.size(); i++)
+		{
+			str += to_string(nums[i]);
+		}
+		return str;
+	}
 
+	bool func_sort(int a, int b)
+	{
+		string res1 = to_string(a);
+		string res2 = to_string(b);
+		if (res1[0] == res2[0])
+		{
+			if (res1.length() == 1)
+			{
+				return res1[1] != '0';
+			}
+			if (res2.length() == 1)
+			{
+				return res2[1] != '0';
+			}
+			return res1[1] > res2[1];
+		}
+		return res1[0] > res2[0];
 	}
 };
 #pragma endregion
@@ -43,7 +69,7 @@ public:
 输出: 4
 解释: 小于 10 的质数一共有 4 个, 它们是 2, 3, 5, 7 。
 */
-class Solution {
+class Solution2 {
 public:
 	// -- 暴力 -- 超时
 	int countPrimes(int n) {
@@ -157,7 +183,8 @@ void erat(int maxn)
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
-class Solution {
+/*
+class Solution3 {
 public:
 	int longestUnivaluePath(TreeNode* root) {
 		if (root == nullptr)
@@ -195,7 +222,7 @@ public:
 		DFS(root->right, root->val, cur, res);
 	}
 };
-
+*/ 
 #pragma endregion
 #pragma region 889_根据前序和后序遍历构造二叉树
 /*
@@ -218,12 +245,14 @@ pre[] 和 post[] 都是 1, 2, ..., pre.length 的排列
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
-class Solution {
+/*
+class Solution4 {
 public:
 	TreeNode* constructFromPrePost(vector<int>& pre, vector<int>& post) {
 
 	}
 };
+*/
 #pragma endregion
 
 //Definition for a binary tree node.
@@ -257,5 +286,17 @@ struct ListNode {
 
 int main()
 {
-
+	/*
+	vector<int> nums;
+	nums.push_back(5);
+	nums.push_back(1);
+	nums.push_back(7);
+	nums.push_back(4);
+	nums.push_back(9);
+	sort(nums.begin(), nums.end(), [](int a, int b)->bool {return to_string(a)[0] < to_string(b)[0]; });
+	for (size_t i = 0; i < nums.size(); i++)
+	{
+		cout << nums[i] << endl;
+	}
+	*/
 }
