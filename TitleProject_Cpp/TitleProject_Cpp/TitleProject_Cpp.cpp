@@ -6,6 +6,7 @@
 #include <vector>;
 #include <sstream>;
 #include <stack>;
+#include <math.h>
 
 using namespace std;
 
@@ -14,7 +15,6 @@ using namespace std;
 	
 */
 #pragma endregion
-
 
 #pragma region 179_最大数
 /*
