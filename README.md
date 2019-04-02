@@ -1,7 +1,9 @@
 ﻿# <span id='top'>Data-Structures-and-Algorithms</span>
-学习 数据结构 和 算法 的时候记录一些东西，锻炼下逻辑。  
-刷LeetCode题库的中的题，一般一道题或者某种算法会给出多种方案，并且分析利弊(时间/空间复杂度)。  
-会不断完善各式算法的问题，完成详情见 <a href="#algorithms">算法目录</a> 和 <a href="#directory">LeetCode完成目录</a>。  
+### 本库内容包括: 
+* 学习 数据结构 和 算法 的时候记录的一些笔记。
+* 日常刷题的代码以及思路逻辑。  
+* 会不断完善各式算法的问题，完成详情见 <a href="#algorithms">算法目录</a> 和 <a href="#directory">LeetCode完成目录</a>。  
+ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分析记录利弊(时间/空间复杂度)。  
 
 ### 环境要求: 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/) 最新版  
