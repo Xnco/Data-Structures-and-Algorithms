@@ -78,6 +78,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 153 - <font size=4>寻找旋转排序数组中的最小值</font> - 中等 - 2
 * 162 - <font size=4>寻找峰值</font> - 中等
 * 169 - <font size=4>求众数</font> - 简单 - 2
+* 205 - <font size=4>同构字符串</font> - 简单
 * 206 - <font size=4>反转链表</font> - 简单 - 2
 * 217 - <font size=4>存在重复的元素</font> - 简单 - 3
 * 226 - <font size=4>翻转二叉树</font> - 简单
