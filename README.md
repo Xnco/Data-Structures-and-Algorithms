@@ -71,6 +71,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 119 - <font size=4>杨辉三角 II</font> - 简单
 * 121 - <font size=4>买卖股票的最佳时机</font> - 简单
 * 122 - <font size=4>买卖股票的最佳时机 II</font> - 简单
+* 125 - <font size=4>验证回文串</font> - 简单
 * 136 - <font size=4>只出现一次的数字</font> - 简单 - 2
 * 137 - <font size=4>只出现一次的数字 II</font> - 中等 - 2
 * 144 - <font size=4>二叉树的前序遍历</font> - 中等
