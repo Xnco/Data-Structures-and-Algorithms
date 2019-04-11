@@ -48,6 +48,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 52 - <font size=4>N皇后 II</font> - <b>困难</b>
 * 53 - <font size=4>最大子序和</font> - 简单
 * 62 - <font size=4>不同路径</font> - 中等
+* 66 - <font size=4>加一</font> - 简单
 * 70 - <font size=4>爬楼梯</font> - 简单 - 2
 * 77 - <font size=4>组合</font> - 中等
 * 78 - <font size=4>子集</font> - 中等
