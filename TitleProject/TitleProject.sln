@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.102
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitleProject", "TitleProject\TitleProject.csproj", "{CC02D18E-C7FE-4431-BCE0-C127A5AF0FFB}"
 EndProject
@@ -70,6 +70,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "100-199", "100-199", "{8CEA
 		0101_对称二叉树.cs = 0101_对称二叉树.cs
 		0118_杨辉三角.cs = 0118_杨辉三角.cs
 		0145_二叉树的后序遍历.cs = 0145_二叉树的后序遍历.cs
+		0165_比较版本号.cs = 0165_比较版本号.cs
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "200-299", "200-299", "{086156B5-F70A-4C24-908C-4FFCCFD4D34A}"
