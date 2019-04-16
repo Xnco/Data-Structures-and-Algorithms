@@ -114,6 +114,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 807 - <font size=4>保持城市天际线</font> - 中等
 * 905 - <font size=4>按奇偶排序数组</font> - 简单
 * 941 - <font size=4>有效的山脉数组</font> - 简单 - 2
+* 965 - <font size=4>单值二叉树</font> - 简单
 * 985 - <font size=4>查询后的偶数和</font> - 简单
 * 977 - <font size=4>有序数组的平方</font> - 简单 - 2
 
