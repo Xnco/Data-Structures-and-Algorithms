@@ -4,6 +4,7 @@
 #include "pch.h"
 #include "DataStructure.h"
 #include <iostream>
+#include <string>
 #include <vector>
 #include <map>
 
@@ -14,8 +15,6 @@ using namespace std;
 	
 */
 #pragma endregion
-
-
 
 int main()
 {
