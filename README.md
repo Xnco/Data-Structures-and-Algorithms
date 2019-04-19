@@ -107,6 +107,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 589 - <font size=4>N叉树的前序遍历</font> - 简单
 * 617 - <font size=4>合并二叉树</font> - 简单
 * 633 - <font size=4>平方数之和</font> - 简单
+* 637 - <font size=4>二叉树的层平均值</font> - 简单
 * 680 - <font size=4>验证回文字符串 Ⅱ</font> - 简单
 * 700 - <font size=4>二叉搜索树中的搜索</font> - 简单
 * 704 - <font size=4>二分查找</font> - 简单
