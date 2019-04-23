@@ -103,6 +103,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 451 - <font size=4>根据字符出现频率排序</font> - 中等
 * 507 - <font size=4>完美数</font> - 简单 - 2
 * 509 - <font size=4>斐波那契数</font> - 简单 - 2
+* 530 - <font size=4>二叉搜索树的最小绝对差</font> - 简单
 * 553 - <font size=4>最优除法</font> - 中等
 * 557 - <font size=4>反转字符串中的单词 III</font> - 简单
 * 589 - <font size=4>N叉树的前序遍历</font> - 简单
