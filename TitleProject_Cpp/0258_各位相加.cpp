@@ -1,3 +1,13 @@
+#include "pch.h"
+#include "DataStructure.h"
+#include <iostream>
+#include <string>
+#include <stack>
+#include <vector>
+#include <algorithm>
+#include <map>
+
+using namespace std;
 
 #pragma region 258_各位相加
 /*
