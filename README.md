@@ -91,6 +91,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 236 - <font size=4>二叉树的最近公共祖先</font> - 中等
 * 237 - <font size=4>删除链表中的节点</font> - 简单
 * 257 - <font size=4>二叉树的所有路径</font> - 简单
+* 258 - <font size=4>各位相加</font> - 简单
 * 283 - <font size=4>移动零</font> - 简单
 * 287 - <font size=4>寻找重复数</font> - 中等
 * 292 - <font size=4>Nim游戏</font> - 简单

@@ -30,6 +30,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		0202_快乐数.cpp = 0202_快乐数.cpp
 		0205_同构字符串.cpp = 0205_同构字符串.cpp
 		0257_二叉树的所有路径.cpp = 0257_二叉树的所有路径.cpp
+		0258_各位相加.cpp = 0258_各位相加.cpp
 		0367_有效的完全平方数.cpp = 0367_有效的完全平方数.cpp
 		0383_移动零.cpp = 0383_移动零.cpp
 		0412_FizzBuzz.cpp = 0412_FizzBuzz.cpp
