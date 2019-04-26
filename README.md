@@ -107,6 +107,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 485 - <font size=4>最大连续1的个数</font> - 简单
 * 507 - <font size=4>完美数</font> - 简单 - 2
 * 509 - <font size=4>斐波那契数</font> - 简单 - 2
+* 520 - <font size=4>检测大写字母</font> - 简单
 * 530 - <font size=4>二叉搜索树的最小绝对差</font> - 简单
 * 553 - <font size=4>最优除法</font> - 中等
 * 557 - <font size=4>反转字符串中的单词 III</font> - 简单
