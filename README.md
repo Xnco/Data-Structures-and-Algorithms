@@ -6,7 +6,7 @@
 ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分析记录利弊(时间/空间复杂度)。  
 
 ### 环境要求: 
-* [Visual Studio 2017](https://visualstudio.microsoft.com/) 最新版  
+* [Visual Studio ~~2017~~ 2019](https://visualstudio.microsoft.com/) 最新版  
 * 或者随意编辑器打开, Copy代码到 [LeetCode](https://leetcode-cn.com/problemset/all/) 中可提交运行
 
 ### 语言: 
@@ -131,5 +131,6 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 965 - <font size=4>单值二叉树</font> - 简单
 * 985 - <font size=4>查询后的偶数和</font> - 简单
 * 977 - <font size=4>有序数组的平方</font> - 简单 - 2
+* 1008 - <font size=4>先序遍历构造二叉树</font> - 中等
 
 <a href='#top'> 回到顶部</a>
