@@ -35,6 +35,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 11 - <font size=4>盛最多水的容器</font> - 中等
 * 15 - <font size=4>三数之和</font> - 中等
 * 16 - <font size=4>最接近的三数之和</font> - 中等
+* 19 - <font size=4>删除链表的倒数第N个节点</font> - 中等
 * 20 - <font size=4>有效的括号</font> - 简单
 * 21 - <font size=4>合并两个有序链表</font> - 简单
 * 22 - <font size=4>括号生成</font> - 中等
