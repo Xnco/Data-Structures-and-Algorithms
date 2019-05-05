@@ -82,6 +82,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 137 - <font size=4>只出现一次的数字 II</font> - 中等 - 2
 * 144 - <font size=4>二叉树的前序遍历</font> - 中等
 * 145 - <font size=4>二叉树的后序遍历</font> - <b>困难</b>
+* 148 - <font size=4>排序链表</font> - 中等
 * 153 - <font size=4>寻找旋转排序数组中的最小值</font> - 中等 - 2
 * 162 - <font size=4>寻找峰值</font> - 中等
 * 165 - <font size=4>比较版本号</font> - 中等
