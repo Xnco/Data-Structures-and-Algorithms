@@ -54,6 +54,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 70 - <font size=4>爬楼梯</font> - 简单 - 2
 * 77 - <font size=4>组合</font> - 中等
 * 78 - <font size=4>子集</font> - 中等
+* 82 - <font size=4>删除排序链表中的重复元素 II</font> - 中等
 * 83 - <font size=4>删除排序链表中的重复元素</font> - 简单 - 2
 * 88 - <font size=4>合并两个有序数组</font> - 简单 - 2
 * 92 - <font size=4>反转链表 II</font> - 中等
