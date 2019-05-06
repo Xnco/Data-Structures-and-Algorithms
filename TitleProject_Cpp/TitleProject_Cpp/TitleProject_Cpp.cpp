@@ -46,12 +46,48 @@ using namespace std;
 class Solution {
 public:
 	ListNode* insertionSortList(ListNode* head) {
-		ListNode* res = head;
+		ListNode* res = new ListNode(-99999);
+		res->next = head;
+
+		ListNode* item = head->next;
+		head->next = nullptr;
+		while (true)
+		{
+			ListNode* cur = res;
+			while (true)
+			{
+				if (cur->next == nullptr)
+				{
+					cur->next = item;
+					break;
+				}
+				if (item->val < cur->next->val)
+				{
+					ListNode* temp = item->next;
+					item->next = cur->next;
+					cur->next = item;
+					item = temp;
+					break;
+				}
+				cur = cur->next;
+			}
+
+			if (item == nullptr)
+			{
+				break;
+			}
+		}
+		return res->next;
 	}
 };
 #pragma endregion
 
 int main()
 {
-
+	ListNode* node = new ListNode(3);
+	node->next = new ListNode(2);
+	node->next->next = new ListNode(1);
+	node->next->next->next = new ListNode(4);
+	Solution s;
+	s.insertionSortList(node);
 }
