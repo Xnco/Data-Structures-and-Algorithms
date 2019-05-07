@@ -80,6 +80,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 125 - <font size=4>验证回文串</font> - 简单
 * 136 - <font size=4>只出现一次的数字</font> - 简单 - 2
 * 137 - <font size=4>只出现一次的数字 II</font> - 中等 - 2
+* 143 - <font size=4>重排链表</font> - 中等
 * 144 - <font size=4>二叉树的前序遍历</font> - 中等
 * 145 - <font size=4>二叉树的后序遍历</font> - <b>困难</b>
 * 148 - <font size=4>排序链表</font> - 中等
