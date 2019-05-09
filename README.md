@@ -128,6 +128,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 680 - <font size=4>验证回文字符串 Ⅱ</font> - 简单
 * 700 - <font size=4>二叉搜索树中的搜索</font> - 简单
 * 704 - <font size=4>二分查找</font> - 简单
+* 707 - <font size=4>设计链表</font> - 简单
 * 709 - <font size=4>转换成小写字母</font> - 简单
 * 713 - <font size=4>乘积小于K的子数组</font> - 中等
 * 728 - <font size=4>自除数</font> - 简单
