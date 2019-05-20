@@ -104,6 +104,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 283 - <font size=4>移动零</font> - 简单
 * 287 - <font size=4>寻找重复数</font> - 中等
 * 292 - <font size=4>Nim游戏</font> - 简单
+* 328 - <font size=4>奇偶链表</font> - 中等
 * 344 - <font size=4>反转字符串</font> - 简单
 * 367 - <font size=4>有效的完全平方数</font> - 简单
 * 413 - <font size=4>等差数列划分</font> - 中等
