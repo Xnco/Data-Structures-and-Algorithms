@@ -1,4 +1,38 @@
-﻿#pragma region 179_最大数
+﻿
+#pragma region 84_柱状图中最大的矩形
+/*
+https://leetcode-cn.com/problems/largest-rectangle-in-histogram/
+给定 n 个非负整数，用来表示柱状图中各个柱子的高度。每个柱子彼此相邻，且宽度为 1 。
+求在该柱状图中，能够勾勒出来的矩形的最大面积。
+以上是柱状图的示例，其中每个柱子的宽度为 1，给定的高度为 [2,1,5,6,2,3]。
+图中阴影部分为所能勾勒出的最大矩形面积，其面积为 10 个单位。
+示例:
+输入: [2,1,5,6,2,3]
+输出: 10
+*/
+
+class Solution {
+public:
+	// 暴力 - O(n²) - 超时
+	int largestRectangleArea(vector<int>& heights) {
+
+		int maxArea = 0;
+		for (int i = 0; i < heights.size(); i++)
+		{
+			int minH = heights[i];
+			maxArea = max(maxArea, minH);
+			for (int j = i; j < heights.size() - 1; j++)
+			{
+				minH = min(minH, heights[j + 1]);
+				maxArea = max(maxArea, minH * (j - i + 1));
+			}
+		}
+		return maxArea;
+	}
+};
+#pragma endregion
+
+#pragma region 179_最大数
 /*
 给定一组非负整数，重新排列它们的顺序使之组成一个最大的整数。
 示例 1:
@@ -43,6 +77,7 @@ public:
 };
 */
 #pragma endregion
+
 #pragma region 204_计数质数
 /*
 统计所有小于非负整数 n 的质数的数量。
@@ -134,6 +169,7 @@ if (flag[i])
 }
 */
 #pragma endregion
+
 #pragma region 687_最长同值路径
 /*
 给定一个二叉树，找到最长的路径，这个路径中的每个节点具有相同值。 这条路径可以经过也可以不经过根节点。
@@ -208,6 +244,7 @@ if (flag[i])
  };
  */
 #pragma endregion
+
 #pragma region 889_根据前序和后序遍历构造二叉树
  /*
  返回与给定的前序和后序遍历匹配的任何二叉树。
