@@ -42,6 +42,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 23 - <font size=4>合并 K 个有序链表</font> - <b>困难</b> - 2
 * 24 - <font size=4>两两交换链表中的节点</font> - 中等 - 2
 * 26 - <font size=4>删除排序数组中的重复项</font> - 简单
+* 27 - <font size=4>移除元素</font> - 简单
 * 33 - <font size=4>搜索旋转数组排序数组</font> - 中等 - 2
 * 37 - <font size=4>解数独</font> - <b>困难</b> - 2
 * 39 - <font size=4>组合总和</font> - 中等
