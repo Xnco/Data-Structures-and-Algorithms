@@ -57,6 +57,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 78 - <font size=4>子集</font> - 中等
 * 82 - <font size=4>删除排序链表中的重复元素 II</font> - 中等
 * 83 - <font size=4>删除排序链表中的重复元素</font> - 简单 - 2
+* 86 - <font size=4>分隔链表 II</font> - 中等
 * 88 - <font size=4>合并两个有序数组</font> - 简单 - 2
 * 92 - <font size=4>反转链表 II</font> - 中等
 * 94 - <font size=4>二叉树的中序遍历</font> - 中等
