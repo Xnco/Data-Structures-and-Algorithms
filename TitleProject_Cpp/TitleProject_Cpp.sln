@@ -49,6 +49,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		0258_各位相加.cpp = 0258_各位相加.cpp
 		0263_丑数.cpp = 0263_丑数.cpp
 		0328_奇偶链表.cpp = 0328_奇偶链表.cpp
+		0349_两个数组的交集.cpp = 0349_两个数组的交集.cpp
 		0367_有效的完全平方数.cpp = 0367_有效的完全平方数.cpp
 		0383_移动零.cpp = 0383_移动零.cpp
 		0412_FizzBuzz.cpp = 0412_FizzBuzz.cpp
