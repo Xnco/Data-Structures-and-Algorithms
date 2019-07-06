@@ -149,6 +149,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 845 - <font size=4>数组中的最长山脉</font> - 中等
 * 872 - <font size=4>叶子相似的树</font> - 简单
 * 876 - <font size=4>链表中的中间节点</font> - 简单
+* 881 - <font size=4>救生艇</font> - 中等
 * 905 - <font size=4>按奇偶排序数组</font> - 简单
 * 941 - <font size=4>有效的山脉数组</font> - 简单 - 2
 * 965 - <font size=4>单值二叉树</font> - 简单
