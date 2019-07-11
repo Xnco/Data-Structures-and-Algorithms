@@ -61,6 +61,8 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 88 - <font size=4>合并两个有序数组</font> - 简单 - 2
 * 92 - <font size=4>反转链表 II</font> - 中等
 * 94 - <font size=4>二叉树的中序遍历</font> - 中等
+* 95 - <font size=4>不同的二叉搜索树 II</font> - 中等
+* 96 - <font size=4>不同的二叉搜索树</font> - 中等 - 2
 * 100 - <font size=4>相同的树</font> - 简单
 * 101 - <font size=4>对称二叉树</font> - 简单
 * 102 - <font size=4>二叉树的层次遍历</font> - 中等
