@@ -98,6 +98,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 165 - <font size=4>比较版本号</font> - 中等
 * 169 - <font size=4>求众数</font> - 简单 - 2
 * 172 - <font size=4>阶乘后的0</font> - 简单
+* 191 - <font size=4>位1的个数</font> - 简单
 * 198 - <font size=4>打家劫舍</font> - 简单
 * 199 - <font size=4>二叉树的右视图</font> - 中等
 * 202 - <font size=4>快乐数</font> - 简单
@@ -118,6 +119,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 287 - <font size=4>寻找重复数</font> - 中等
 * 292 - <font size=4>Nim游戏</font> - 简单
 * 328 - <font size=4>奇偶链表</font> - 中等
+* 338 - <font size=4>比特位计数</font> - 中等
 * 344 - <font size=4>反转字符串</font> - 简单
 * 349 - <font size=4>两个数组的交集</font> - 简单
 * 367 - <font size=4>有效的完全平方数</font> - 简单
