@@ -31,6 +31,8 @@ candidates 中的数字可以无限制重复被选取。
 // 回溯算法 - 40ms(击败9%), 10.3MB
 class Solution {
 public:
+	//Runtime: 12 ms, faster than 86.24% of C++ online submissions for Combination Sum.
+	//Memory Usage : 9.4 MB, less than 73.85 % of C++ online submissions for Combination Sum.
 	vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
 		vector<vector<int>> result;
 		if (candidates.size() == 0) {

@@ -22,9 +22,11 @@ A = [1, 2, 3, 4]
 返回: 3, A 中有三个子等差数组: [1, 2, 3], [2, 3, 4] 以及自身 [1, 2, 3, 4]。
 */
 // 动态规划 
-// 8ms, 8.6MB
+
 class Solution {
 public:
+	//Runtime: 0 ms, faster than 100.00% of C++ online submissions for Arithmetic Slices.
+	//Memory Usage : 8.7 MB, less than 49.71 % of C++ online submissions for Arithmetic Slices.
 	int numberOfArithmeticSlices(vector<int>& A) {
 		if (A.size() < 3)
 		{
