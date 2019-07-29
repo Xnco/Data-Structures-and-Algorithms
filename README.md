@@ -140,6 +140,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 553 - <font size=4>最优除法</font> - 中等
 * 557 - <font size=4>反转字符串中的单词 III</font> - 简单
 * 589 - <font size=4>N叉树的前序遍历</font> - 简单
+* 590 - <font size=4>N叉树的后序遍历</font> - 简单
 * 617 - <font size=4>合并二叉树</font> - 简单
 * 633 - <font size=4>平方数之和</font> - 简单
 * 637 - <font size=4>二叉树的层平均值</font> - 简单
