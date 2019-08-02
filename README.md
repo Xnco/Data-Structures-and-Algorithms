@@ -119,6 +119,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 268 - <font size=4>缺失数字</font> - 简单
 * 283 - <font size=4>移动零</font> - 简单
 * 287 - <font size=4>寻找重复数</font> - 中等
+* 289 - <font size=4>生命游戏</font> - 中等
 * 292 - <font size=4>Nim游戏</font> - 简单
 * 328 - <font size=4>奇偶链表</font> - 中等
 * 338 - <font size=4>比特位计数</font> - 中等
