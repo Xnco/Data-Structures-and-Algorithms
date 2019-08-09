@@ -37,3 +37,25 @@ public:
 	}
 };
 #pragma endregion
+
+static int _ = []() {
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+	cout.tie(nullptr);
+	return 0;
+}();
+
+class Solution {
+public:
+	vector<int> findDuplicates(vector<int>& nums) {
+		vector<int> ret;
+		for (int i = 0; i < nums.size(); i++) {
+			int tmp = abs(nums[i]) - 1;
+			nums[tmp] = -nums[tmp];
+			if (nums[tmp] > 0) {
+				ret.push_back(tmp + 1);
+			}
+		}
+		return ret;
+	}
+};
