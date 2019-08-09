@@ -132,6 +132,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 414 - <font size=4>最三大的数</font> - 简单  
 * 415 - <font size=4>字符串相加</font> - 简单  
 * 437 - <font size=4>路径总和 III</font> - 简单 
+* 442 - <font size=4>数组中重复的数据</font> - 中等
 * 448 - <font size=4>找到所有数组中消失的数字</font> - 简单 
 * 451 - <font size=4>根据字符出现频率排序</font> - 中等
 * 463 - <font size=4>岛屿的周长</font> - 简单
