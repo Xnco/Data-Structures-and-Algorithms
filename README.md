@@ -138,6 +138,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 451 - <font size=4>根据字符出现频率排序</font> - 中等
 * 463 - <font size=4>岛屿的周长</font> - 简单
 * 485 - <font size=4>最大连续1的个数</font> - 简单
+* 496 - <font size=4>下一个更大元素 I</font> - 简单
 * 507 - <font size=4>完美数</font> - 简单 - 2
 * 509 - <font size=4>斐波那契数</font> - 简单 - 2
 * 513 - <font size=4>找树左下角的值</font> - 中等
