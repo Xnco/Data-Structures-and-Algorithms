@@ -105,6 +105,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		0876_链表中的中间节点.cpp = 0876_链表中的中间节点.cpp
 		0881_救生艇.cpp = 0881_救生艇.cpp
 		0941_有效的山脉数组.cpp = 0941_有效的山脉数组.cpp
+		0951_翻转等价二叉树.cpp = 0951_翻转等价二叉树.cpp
 		0961_重复N次的元素.cpp = 0961_重复N次的元素.cpp
 		0965_单值二叉树.cpp = 0965_单值二叉树.cpp
 		1008_先序遍历构造二叉树.cpp = 1008_先序遍历构造二叉树.cpp
@@ -112,6 +113,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		1025_除数博弈.cpp = 1025_除数博弈.cpp
 		1054_距离相等的条形码.cpp = 1054_距离相等的条形码.cpp
 		1103_分糖果II.cpp = 1103_分糖果II.cpp
+		1137_第N个泰波那契数.cpp = 1137_第N个泰波那契数.cpp
 	EndProjectSection
 EndProject
 Global
