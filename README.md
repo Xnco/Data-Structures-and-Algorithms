@@ -168,6 +168,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 728 - <font size=4>自除数</font> - 简单
 * 763 - <font size=4>划分字母区间</font> - 中等
 * 771 - <font size=4>宝石和石头</font> - 简单 - 2
+* 783 - <font size=4>二叉搜索树结点最小距离</font> - 简单
 * 784 - <font size=4>字母大小写全排列</font> - 简单
 * 797 - <font size=4>所有可能的路径</font> - 中等
 * 807 - <font size=4>保持城市天际线</font> - 中等
