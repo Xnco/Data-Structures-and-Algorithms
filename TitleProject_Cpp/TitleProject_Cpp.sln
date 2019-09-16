@@ -8,6 +8,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}"
 	ProjectSection(SolutionItems) = preProject
 		0000_No_Solution.cpp = 0000_No_Solution.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-99", "1-99", "{88F51E2F-5784-4BAB-AB16-3D0C0D3C1506}"
+	ProjectSection(SolutionItems) = preProject
 		0019_删除链表的倒数第N个节点.cpp = 0019_删除链表的倒数第N个节点.cpp
 		0022_括号生成.cpp = 0022_括号生成.cpp
 		0024_两两交换链表中的节点.cpp = 0024_两两交换链表中的节点.cpp
@@ -21,6 +25,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		0092_反转链表 II.cpp = 0092_反转链表 II.cpp
 		0095_不同的二叉搜索树 II.cpp = 0095_不同的二叉搜索树 II.cpp
 		0096_不同的二叉搜索树.cpp = 0096_不同的二叉搜索树.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "100-199", "100-199", "{DDEBA0FE-E993-4AB1-898C-29619EDB90A1}"
+	ProjectSection(SolutionItems) = preProject
 		0100_相同的树.cpp = 0100_相同的树.cpp
 		0102_二叉树的层次遍历.cpp = 0102_二叉树的层次遍历.cpp
 		0103_二叉树的锯齿形层次遍历.cpp = 0103_二叉树的锯齿形层次遍历.cpp
@@ -49,6 +57,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		0191_位1的个数.cpp = 0191_位1的个数.cpp
 		0198_打家劫舍.cpp = 0198_打家劫舍.cpp
 		0199_二叉树的右视图.cpp = 0199_二叉树的右视图.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "200-299", "200-299", "{3728FBD0-F773-45BA-86C2-B16A2B700DF0}"
+	ProjectSection(SolutionItems) = preProject
 		0202_快乐数.cpp = 0202_快乐数.cpp
 		0203_移除链表元素.cpp = 0203_移除链表元素.cpp
 		0205_同构字符串.cpp = 0205_同构字符串.cpp
@@ -60,11 +72,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		0268_缺失数字.cpp = 0268_缺失数字.cpp
 		0283_移动零.cpp = 0283_移动零.cpp
 		0289_生命游戏.cpp = 0289_生命游戏.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "300-399", "300-399", "{6198247D-60DE-446A-92FD-E269D232427F}"
+	ProjectSection(SolutionItems) = preProject
 		0328_奇偶链表.cpp = 0328_奇偶链表.cpp
 		0338_比特位计数.cpp = 0338_比特位计数.cpp
 		0349_两个数组的交集.cpp = 0349_两个数组的交集.cpp
 		0367_有效的完全平方数.cpp = 0367_有效的完全平方数.cpp
 		0386_字典序排数.cpp = 0386_字典序排数.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "400-499", "400-499", "{FB82B8D5-D0C8-43E3-8E32-C2C251755ACB}"
+	ProjectSection(SolutionItems) = preProject
 		0412_FizzBuzz.cpp = 0412_FizzBuzz.cpp
 		0413_等差数列划分.cpp = 0413_等差数列划分.cpp
 		0415_字符串相加.cpp = 0415_字符串相加.cpp
@@ -77,6 +97,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		0485_最大连续1的个数.cpp = 0485_最大连续1的个数.cpp
 		0495_提莫攻击.cpp = 0495_提莫攻击.cpp
 		0496_下一个更大元素I.cpp = 0496_下一个更大元素I.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "500-599", "500-599", "{CE1ED089-EE54-4678-B8AA-AC5674D980FA}"
+	ProjectSection(SolutionItems) = preProject
 		0507_完美数.cpp = 0507_完美数.cpp
 		0508_出现次数最多的子树元素和.cpp = 0508_出现次数最多的子树元素和.cpp
 		0509_斐波那契数.cpp = 0509_斐波那契数.cpp
@@ -88,11 +112,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		0575_分糖果.cpp = 0575_分糖果.cpp
 		0589_N叉树的前序遍历.cpp = 0589_N叉树的前序遍历.cpp
 		0590_N叉树的后序遍历.cpp = 0590_N叉树的后序遍历.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "600-699", "600-699", "{E09CFBE9-66C2-45BC-8D59-D0543D2B0FCE}"
+	ProjectSection(SolutionItems) = preProject
 		0637_二叉树的层平均值.cpp = 0637_二叉树的层平均值.cpp
 		0653_两数之和 IV - 输入 BST.cpp = 0653_两数之和 IV - 输入 BST.cpp
 		0654_最大二叉树.cpp = 0654_最大二叉树.cpp
+		0655_输出二叉树.cpp = 0655_输出二叉树.cpp
 		0677_键值映射.cpp = 0677_键值映射.cpp
 		0680_验证回文字符串 II.cpp = 0680_验证回文字符串 II.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "700-799", "700-799", "{2A76C5EA-48AB-446B-BDFF-CBB888488F21}"
+	ProjectSection(SolutionItems) = preProject
 		0700_二叉搜索树中的搜索.cpp = 0700_二叉搜索树中的搜索.cpp
 		0704_二叉查找.cpp = 0704_二叉查找.cpp
 		0707_设计链表.cpp = 0707_设计链表.cpp
@@ -102,6 +135,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		0783_二叉搜索树结点最小距离.cpp = 0783_二叉搜索树结点最小距离.cpp
 		0784_字母大小写全排列.cpp = 0784_字母大小写全排列.cpp
 		0797_所有可能的路径.cpp = 0797_所有可能的路径.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "800-899", "800-899", "{7723C83A-0066-4471-86B7-0DB7ECE8EEC8}"
+	ProjectSection(SolutionItems) = preProject
 		0814_二叉树剪枝.cpp = 0814_二叉树剪枝.cpp
 		0817_链表组件.cpp = 0817_链表组件.cpp
 		0821_字符的最短距离.cpp = 0821_字符的最短距离.cpp
@@ -109,15 +146,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		0872_叶子相似的树.cpp = 0872_叶子相似的树.cpp
 		0876_链表中的中间节点.cpp = 0876_链表中的中间节点.cpp
 		0881_救生艇.cpp = 0881_救生艇.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "900-999", "900-999", "{231F2CE3-702D-4CCC-BAF0-26CA559A05CC}"
+	ProjectSection(SolutionItems) = preProject
 		0912_排序数组.cpp = 0912_排序数组.cpp
 		0941_有效的山脉数组.cpp = 0941_有效的山脉数组.cpp
 		0951_翻转等价二叉树.cpp = 0951_翻转等价二叉树.cpp
 		0961_重复N次的元素.cpp = 0961_重复N次的元素.cpp
 		0965_单值二叉树.cpp = 0965_单值二叉树.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1000-1099", "1000-1099", "{14696338-AB24-4B4A-9982-AE755BD06DDB}"
+	ProjectSection(SolutionItems) = preProject
 		1008_先序遍历构造二叉树.cpp = 1008_先序遍历构造二叉树.cpp
 		1019_链表中的下一个更大节点.cpp = 1019_链表中的下一个更大节点.cpp
 		1025_除数博弈.cpp = 1025_除数博弈.cpp
 		1054_距离相等的条形码.cpp = 1054_距离相等的条形码.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1100-1199", "1100-1199", "{D086A20F-85DB-416A-8AF1-9861D4821C21}"
+	ProjectSection(SolutionItems) = preProject
 		1103_分糖果II.cpp = 1103_分糖果II.cpp
 		1137_第N个泰波那契数.cpp = 1137_第N个泰波那契数.cpp
 	EndProjectSection
@@ -141,6 +190,20 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{88F51E2F-5784-4BAB-AB16-3D0C0D3C1506} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
+		{DDEBA0FE-E993-4AB1-898C-29619EDB90A1} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
+		{3728FBD0-F773-45BA-86C2-B16A2B700DF0} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
+		{6198247D-60DE-446A-92FD-E269D232427F} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
+		{FB82B8D5-D0C8-43E3-8E32-C2C251755ACB} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
+		{CE1ED089-EE54-4678-B8AA-AC5674D980FA} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
+		{E09CFBE9-66C2-45BC-8D59-D0543D2B0FCE} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
+		{2A76C5EA-48AB-446B-BDFF-CBB888488F21} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
+		{7723C83A-0066-4471-86B7-0DB7ECE8EEC8} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
+		{231F2CE3-702D-4CCC-BAF0-26CA559A05CC} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
+		{14696338-AB24-4B4A-9982-AE755BD06DDB} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
+		{D086A20F-85DB-416A-8AF1-9861D4821C21} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {002C05AF-EFF7-4B8D-99D9-1038BF3394B5}

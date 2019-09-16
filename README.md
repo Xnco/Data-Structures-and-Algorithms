@@ -158,6 +158,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 637 - <font size=4>二叉树的层平均值</font> - 简单
 * 653 - <font size=4>两数之和 IV - 输入 BST</font> - 简单 - 2
 * 654 - <font size=4>最大二叉树</font> - 中等
+* 654 - <font size=4>输出二叉树</font> - 中等
 * 677 - <font size=4>键值映射</font> - 中等 - 2
 * 680 - <font size=4>验证回文字符串 Ⅱ</font> - 简单
 * 700 - <font size=4>二叉搜索树中的搜索</font> - 简单
@@ -185,8 +186,8 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 951 - <font size=4>翻转等价二叉树</font> - 中等
 * 961 - <font size=4>重复N次的元素</font> - 简单
 * 965 - <font size=4>单值二叉树</font> - 简单
-* 985 - <font size=4>查询后的偶数和</font> - 简单
 * 977 - <font size=4>有序数组的平方</font> - 简单 - 2
+* 985 - <font size=4>查询后的偶数和</font> - 简单
 * 1008 - <font size=4>先序遍历构造二叉树</font> - 中等
 * 1019 - <font size=4>链表中的下一个更大节点</font> - 中等
 * 1025 - <font size=4>除数博弈</font> - 简单 - 2
