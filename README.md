@@ -53,6 +53,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 62 - <font size=4>不同路径</font> - 中等
 * 64 - <font size=4>最小路径和</font> - 中等
 * 66 - <font size=4>加一</font> - 简单
+* 67 - <font size=4>二进制求和</font> - 简单
 * 70 - <font size=4>爬楼梯</font> - 简单 - 2
 * 77 - <font size=4>组合</font> - 中等
 * 78 - <font size=4>子集</font> - 中等
