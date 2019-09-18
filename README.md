@@ -160,6 +160,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 653 - <font size=4>两数之和 IV - 输入 BST</font> - 简单 - 2
 * 654 - <font size=4>最大二叉树</font> - 中等
 * 654 - <font size=4>输出二叉树</font> - 中等
+* 661 - <font size=4>图片平滑器</font> - 简单
 * 677 - <font size=4>键值映射</font> - 中等 - 2
 * 680 - <font size=4>验证回文字符串 Ⅱ</font> - 简单
 * 700 - <font size=4>二叉搜索树中的搜索</font> - 简单
