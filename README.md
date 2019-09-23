@@ -119,6 +119,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 263 - <font size=4>丑数</font> - 简单
 * 264 - <font size=4>丑数 II</font> - 中等
 * 268 - <font size=4>缺失数字</font> - 简单
+* 279 - <font size=4>完全平方数</font> - 中等 - 2
 * 283 - <font size=4>移动零</font> - 简单
 * 287 - <font size=4>寻找重复数</font> - 中等
 * 289 - <font size=4>生命游戏</font> - 中等
