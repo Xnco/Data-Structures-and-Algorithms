@@ -192,6 +192,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 965 - <font size=4>单值二叉树</font> - 简单
 * 977 - <font size=4>有序数组的平方</font> - 简单 - 2
 * 985 - <font size=4>查询后的偶数和</font> - 简单
+* 991 - <font size=4>坏了的计算器</font> - 中等
 * 1008 - <font size=4>先序遍历构造二叉树</font> - 中等
 * 1019 - <font size=4>链表中的下一个更大节点</font> - 中等
 * 1025 - <font size=4>除数博弈</font> - 简单 - 2
