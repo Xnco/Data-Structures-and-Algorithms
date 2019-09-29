@@ -100,6 +100,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 165 - <font size=4>比较版本号</font> - 中等
 * 169 - <font size=4>求众数</font> - 简单 - 2
 * 172 - <font size=4>阶乘后的0</font> - 简单
+* 179 - <font size=4>最大数</font> - 中等
 * 191 - <font size=4>位1的个数</font> - 简单
 * 198 - <font size=4>打家劫舍</font> - 简单
 * 199 - <font size=4>二叉树的右视图</font> - 中等
