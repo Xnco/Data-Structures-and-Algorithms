@@ -98,6 +98,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 153 - <font size=4>寻找旋转排序数组中的最小值</font> - 中等 - 2
 * 162 - <font size=4>寻找峰值</font> - 中等
 * 165 - <font size=4>比较版本号</font> - 中等
+* 167 - <font size=4>两数之和 II - 输入有序数组</font> - 简单
 * 169 - <font size=4>求众数</font> - 简单 - 2
 * 172 - <font size=4>阶乘后的0</font> - 简单
 * 179 - <font size=4>最大数</font> - 中等
