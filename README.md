@@ -187,6 +187,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 817 - <font size=4>链表组件</font> - 中等
 * 821 - <font size=4>字符的最短距离</font> - 简单
 * 845 - <font size=4>数组中的最长山脉</font> - 中等
+* 860 - <font size=4>柠檬水找零</font> - 简单
 * 872 - <font size=4>叶子相似的树</font> - 简单
 * 876 - <font size=4>链表中的中间节点</font> - 简单
 * 881 - <font size=4>救生艇</font> - 中等
