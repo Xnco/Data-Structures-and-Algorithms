@@ -132,6 +132,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 349 - <font size=4>两个数组的交集</font> - 简单
 * 367 - <font size=4>有效的完全平方数</font> - 简单
 * 386 - <font size=4>字典序排数</font> - 中等
+* 404 - <font size=4>左叶子之和</font> - 简单
 * 413 - <font size=4>等差数列划分</font> - 中等
 * 412 - <font size=4>FizzBuzz</font> - 简单  
 * 414 - <font size=4>最三大的数</font> - 简单  

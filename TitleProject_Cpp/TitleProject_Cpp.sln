@@ -89,6 +89,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0300-0399", "0300-0399", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0400-0499", "0400-0499", "{FB82B8D5-D0C8-43E3-8E32-C2C251755ACB}"
 	ProjectSection(SolutionItems) = preProject
+		0404_左叶子之和.cpp = 0404_左叶子之和.cpp
 		0412_FizzBuzz.cpp = 0412_FizzBuzz.cpp
 		0413_等差数列划分.cpp = 0413_等差数列划分.cpp
 		0415_字符串相加.cpp = 0415_字符串相加.cpp
