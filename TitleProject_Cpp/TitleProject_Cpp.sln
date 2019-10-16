@@ -164,6 +164,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0900-0999", "0900-0999", "{231F2CE3-702D-4CCC-BAF0-26CA559A05CC}"
 	ProjectSection(SolutionItems) = preProject
 		0912_排序数组.cpp = 0912_排序数组.cpp
+		0917_仅仅反转字母.cpp = 0917_仅仅反转字母.cpp
 		0941_有效的山脉数组.cpp = 0941_有效的山脉数组.cpp
 		0951_翻转等价二叉树.cpp = 0951_翻转等价二叉树.cpp
 		0961_重复N次的元素.cpp = 0961_重复N次的元素.cpp
