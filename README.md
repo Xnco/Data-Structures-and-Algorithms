@@ -178,6 +178,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 707 - <font size=4>设计链表</font> - 简单
 * 709 - <font size=4>转换成小写字母</font> - 简单
 * 713 - <font size=4>乘积小于K的子数组</font> - 中等
+* 725 - <font size=4>分割链表</font> - 中等
 * 728 - <font size=4>自除数</font> - 简单
 * 733 - <font size=4>图像渲染</font> - 简单
 * 763 - <font size=4>划分字母区间</font> - 中等
