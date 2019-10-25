@@ -58,8 +58,6 @@ public:
 
 int main()
 {
-	Solution s;
-	vector<int> v{3,4,2};
-	s.deleteAndEarn(v);
+	
 }
 	
