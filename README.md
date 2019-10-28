@@ -198,6 +198,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 872 - <font size=4>叶子相似的树</font> - 简单
 * 876 - <font size=4>链表中的中间节点</font> - 简单
 * 881 - <font size=4>救生艇</font> - 中等
+* 896 - <font size=4>单调数列</font> - 简单
 * 905 - <font size=4>按奇偶排序数组</font> - 简单
 * 912 - <font size=4>排序数组</font> - 中等
 * 917 - <font size=4>仅仅反转字母</font> - 简单
