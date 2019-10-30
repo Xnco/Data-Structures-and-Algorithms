@@ -166,12 +166,13 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 589 - <font size=4>N叉树的前序遍历</font> - 简单
 * 590 - <font size=4>N叉树的后序遍历</font> - 简单
 * 617 - <font size=4>合并二叉树</font> - 简单
+* 623 - <font size=4>在二叉树中增加一行</font> - 中等
 * 633 - <font size=4>平方数之和</font> - 简单
 * 637 - <font size=4>二叉树的层平均值</font> - 简单
 * 652 - <font size=4>寻找重复的子树</font> - 中等
 * 653 - <font size=4>两数之和 IV - 输入 BST</font> - 简单 - 2
 * 654 - <font size=4>最大二叉树</font> - 中等
-* 654 - <font size=4>输出二叉树</font> - 中等
+* 655 - <font size=4>输出二叉树</font> - 中等
 * 661 - <font size=4>图片平滑器</font> - 简单
 * 677 - <font size=4>键值映射</font> - 中等 - 2
 * 680 - <font size=4>验证回文字符串 Ⅱ</font> - 简单
