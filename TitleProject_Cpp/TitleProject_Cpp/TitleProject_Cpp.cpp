@@ -58,6 +58,6 @@ public:
 
 int main()
 {
-	
+
 }
 	

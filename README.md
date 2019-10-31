@@ -169,6 +169,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 623 - <font size=4>在二叉树中增加一行</font> - 中等
 * 633 - <font size=4>平方数之和</font> - 简单
 * 637 - <font size=4>二叉树的层平均值</font> - 简单
+* 641 - <font size=4>设计循环双端队列</font> - 中等
 * 652 - <font size=4>寻找重复的子树</font> - 中等
 * 653 - <font size=4>两数之和 IV - 输入 BST</font> - 简单 - 2
 * 654 - <font size=4>最大二叉树</font> - 中等
