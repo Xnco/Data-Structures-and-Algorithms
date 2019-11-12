@@ -150,6 +150,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 485 - <font size=4>最大连续1的个数</font> - 简单
 * 495 - <font size=4>提莫攻击</font> - 中等
 * 496 - <font size=4>下一个更大元素 I</font> - 简单
+* 504 - <font size=4>七进制数</font> - 简单
 * 506 - <font size=4>相对名次</font> - 简单
 * 507 - <font size=4>完美数</font> - 简单 - 2
 * 508 - <font size=4>出现次数最多的子树元素和</font> - 中等

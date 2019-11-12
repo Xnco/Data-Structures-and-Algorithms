@@ -110,6 +110,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0400-0499", "0400-0499", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0500-0599", "0500-0599", "{CE1ED089-EE54-4678-B8AA-AC5674D980FA}"
 	ProjectSection(SolutionItems) = preProject
+		0504_七进制数.cpp = 0504_七进制数.cpp
 		0506_相对名次.cpp = 0506_相对名次.cpp
 		0507_完美数.cpp = 0507_完美数.cpp
 		0508_出现次数最多的子树元素和.cpp = 0508_出现次数最多的子树元素和.cpp
