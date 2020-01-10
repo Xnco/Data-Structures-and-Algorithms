@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace CreateItemByFile
 {
@@ -48,7 +49,8 @@ namespace CreateItemByFile
                                     string fileName2 = nameList[1].Split(".")[0];
                                     if (fileName2 == fileName)
                                     {
-                                        all[i] = all[i].Insert(right + 1, string.Format(httpStr, fileNum, fileName));
+                                        all[i] = all[i].Insert(right + 1, string.Format(httpStr, 
+                                            fileNum.Replace(" ", ""), fileName.Replace(" ", "")));
                                     }
                                 }
                             }
