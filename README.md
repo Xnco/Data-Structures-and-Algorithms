@@ -221,5 +221,6 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 1054 - <font size=4>距离相等的条形码</font> - 中等
 * 1103 - <font size=4>分糖果 II</font> - 简单
 * 1137 - <font size=4>第 N 个泰波那契数</font> - 简单
+* 1190 - <font size=4>[反转每对括号间的子串](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0024_两两交换链表中的节点.cpp)</font> - 中等
 
 <a href='#top'> 回到顶部</a>
