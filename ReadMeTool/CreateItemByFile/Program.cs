@@ -41,16 +41,20 @@ namespace CreateItemByFile
                         {
                             string fileName = all[i].Substring(left + 1, right - left - 1);
                             string fileNum = all[i].Substring(2, all[i].IndexOf('-') - 3);
-                            for (int j = 0; j < allFiles.Length; j++)
+                            int Num;
+                            if (int.TryParse(fileNum, out Num));
                             {
-                                string[] nameList = allFiles[j].Name.Split("_");
-                                if (nameList.Length >= 2)
+                                for (int j = 0; j < allFiles.Length; j++)
                                 {
-                                    string fileName2 = nameList[1].Split(".")[0];
-                                    if (fileName2 == fileName)
+                                    string[] nameList = allFiles[j].Name.Split("_");
+                                    if (nameList.Length >= 2)
                                     {
-                                        all[i] = all[i].Insert(right + 1, string.Format(httpStr, 
-                                            fileNum.Replace(" ", ""), fileName.Replace(" ", "")));
+                                        string fileName2 = nameList[1].Split(".")[0];
+                                        if (fileName2 == fileName)
+                                        {
+                                            all[i] = all[i].Insert(right + 1, string.Format(httpStr,
+                                                Num.ToString("0000"), fileName.Replace(" ", "")));
+                                        }
                                     }
                                 }
                             }
