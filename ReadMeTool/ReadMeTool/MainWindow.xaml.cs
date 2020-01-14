@@ -100,6 +100,13 @@ namespace ReadMeTool
                         res.Insert(i, input_Content);
                         break;
                     }
+
+                    if(res[i].IndexOf("LeetCode Auto Flag") != -1)
+                    {
+                        // Last line
+                        res.Insert(i, input_Content);
+                        break;
+                    }
                 }
             }
             File.WriteAllLines(readmePath, res);
