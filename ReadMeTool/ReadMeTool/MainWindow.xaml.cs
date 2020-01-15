@@ -153,7 +153,8 @@ namespace ReadMeTool
                     MessageBox.Show("暂不支持的代码类型, 请重新选择");
                     return false;
             }
-            content += string.Format(httpsPath, num.ToString("0000"), Title_Text.Text);
+            // http中空格转换成%20
+            content += string.Format(httpsPath, num.ToString("0000"), Title_Text.Text.Replace(" ", "%20"));
 
             content += "</font>";
 
