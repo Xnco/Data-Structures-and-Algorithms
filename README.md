@@ -168,6 +168,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 575 - <font size=4>[分糖果](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0575_分糖果.cpp)</font> - 简单
 * 589 - <font size=4>[N叉树的前序遍历](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0589_N叉树的前序遍历.cpp)</font> - 简单
 * 590 - <font size=4>[N叉树的后序遍历](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0590_N叉树的后序遍历.cpp)</font> - 简单
+* 598 - <font size=4>[范围求和 II](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0598_范围求和%20II.cpp)</font> - 简单
 * 617 - <font size=4>[合并二叉树](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0617_合并二叉树.cs)</font> - 简单
 * 623 - <font size=4>[在二叉树中增加一行](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0623_在二叉树中增加一行.cpp)</font> - 中等
 * 633 - <font size=4>[平方数之和]</font> - 简单
