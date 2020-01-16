@@ -179,7 +179,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 655 - <font size=4>[输出二叉树](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0655_输出二叉树.cpp)</font> - 中等
 * 661 - <font size=4>[图片平滑器](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0661_图片平滑器.cpp)</font> - 简单
 * 677 - <font size=4>[键值映射](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0677_键值映射.cpp)</font> - 中等 - 2
-* 680 - <font size=4>[验证回文字符串Ⅱ](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0680_验证回文字符串Ⅱ.cpp)</font> - 简单
+* 680 - <font size=4>[验证回文字符串II](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0680_验证回文字符串%20II.cpp)</font> - 简单
 * 700 - <font size=4>[二叉搜索树中的搜索](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0700_二叉搜索树中的搜索.cpp)</font> - 简单
 * 704 - <font size=4>[二分查找](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0704_二分查找.cpp)</font> - 简单
 * 707 - <font size=4>[设计链表](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0707_设计链表.cpp)</font> - 简单
