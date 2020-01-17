@@ -145,6 +145,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 437 - <font size=4>[路径总和 III](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0437_路径总和%20III.cpp)</font> - 简单 
 * 442 - <font size=4>[数组中重复的数据](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0442_数组中重复的数据.cpp)</font> - 中等
 * 445 - <font size=4>[两数相加 II](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0445_两数相加%20II.cpp)</font> - 中等
+* 447 - <font size=4>[回旋镖的数量](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0447_回旋镖的数量.cpp)</font> - 简单
 * 448 - <font size=4>[找到所有数组中消失的数字](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0448_找到所有数组中消失的数字.cpp)</font> - 简单 
 * 449 - <font size=4>[序列化和反序列化二叉搜索树](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0449_序列化和反序列化二叉搜索树.cpp)</font> - 中等
 * 451 - <font size=4>[根据字符出现频率排序](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0451_根据字符出现频率排序.cpp)</font> - 中等
