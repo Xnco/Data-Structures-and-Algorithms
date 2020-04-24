@@ -209,6 +209,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1200-1299", "1200-1299", "{
 		1275_找出井字棋的获胜者.cpp = 1275_找出井字棋的获胜者.cpp
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interview", "Interview", "{5D2B21DF-EC96-4E1E-BCEE-238A0BC0CEE5}"
+	ProjectSection(SolutionItems) = preProject
+		Interview_0051_数组中的逆序对.cpp = Interview_0051_数组中的逆序对.cpp
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -243,6 +248,7 @@ Global
 		{14696338-AB24-4B4A-9982-AE755BD06DDB} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
 		{D086A20F-85DB-416A-8AF1-9861D4821C21} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
 		{3EF5204A-5B8D-4C4E-A542-F57C2C26FD7D} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
+		{5D2B21DF-EC96-4E1E-BCEE-238A0BC0CEE5} = {97D93F96-CD89-4BBD-B5E8-BD6B22F00AFF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {002C05AF-EFF7-4B8D-99D9-1038BF3394B5}
