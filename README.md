@@ -211,6 +211,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 905 - <font size=4>[按奇偶排序数组](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0905_按奇偶排序数组.cs)</font> - 简单
 * 912 - <font size=4>[排序数组](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0912_排序数组.cpp)</font> - 中等
 * 917 - <font size=4>[仅仅反转字母](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0917_仅仅反转字母.cpp)</font> - 简单
+* 932 - <font size=4>[漂亮数组](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0932_漂亮数组.cpp)</font> - 中等
 * 941 - <font size=4>[有效的山脉数组](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0941_有效的山脉数组.cpp)</font> - 简单 - 2
 * 951 - <font size=4>[翻转等价二叉树](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0951_翻转等价二叉树.cpp)</font> - 中等
 * 961 - <font size=4>[重复N次的元素](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0961_重复N次的元素.cpp)</font> - 简单
