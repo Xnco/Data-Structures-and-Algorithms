@@ -43,7 +43,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 24 - <font size=4>[两两交换链表中的节点](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0024_两两交换链表中的节点.cpp)</font> - 中等 - 2
 * 26 - <font size=4>[删除排序数组中的重复项](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0026_删除排序数组中的重复项.cs)</font> - 简单
 * 27 - <font size=4>[移除元素](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0027_移除元素.cpp)</font> - 简单
-* 33 - <font size=4>[搜索旋转数组排序数组]</font> - 中等 - 2
+* 33 - <font size=4>[搜索旋转数组排序数组]</font> - 中等 - 3 cpp & cs
 * 37 - <font size=4>[解数独]</font> - <b>困难</b> - 2
 * 39 - <font size=4>[组合总和](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0039_组合总和.cpp)</font> - 中等
 * 46 - <font size=4>[全排列](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0046_全排列.cs)</font> - 中等 - 2
@@ -57,6 +57,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 70 - <font size=4>[爬楼梯]</font> - 简单 - 2
 * 77 - <font size=4>[组合](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0077_组合.cs)</font> - 中等
 * 78 - <font size=4>[子集]</font> - 中等
+* 81 - <font size=4>[搜索旋转排序数组_II](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0081_搜索旋转排序数组_II.cpp)</font> - 中等
 * 82 - <font size=4>[删除排序链表中的重复元素 II](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0082_删除排序链表中的重复元素%20II.cpp)</font> - 中等
 * 83 - <font size=4>[删除排序链表中的重复元素](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0083_删除排序链表中的重复元素.cpp)</font> - 简单 - 2
 * 86 - <font size=4>[分隔链表 II]</font> - 中等
