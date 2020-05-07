@@ -169,6 +169,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 553 - <font size=4>[最优除法](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0553_最优除法.cpp)</font> - 中等
 * 557 - <font size=4>[反转字符串中的单词III]</font> - 简单
 * 565 - <font size=4>[数组嵌套](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/565数组嵌套.cpp)</font> - 中等
+* 572 - <font size=4>[另一个数的子数](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0572_另一个数的子数.cpp)</font> - 简单 - 2
 * 575 - <font size=4>[分糖果](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0575_分糖果.cpp)</font> - 简单
 * 589 - <font size=4>[N叉树的前序遍历](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0589_N叉树的前序遍历.cpp)</font> - 简单
 * 590 - <font size=4>[N叉树的后序遍历](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0590_N叉树的后序遍历.cpp)</font> - 简单
