@@ -219,6 +219,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 961 - <font size=4>[重复N次的元素](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0961_重复N次的元素.cpp)</font> - 简单
 * 965 - <font size=4>[单值二叉树](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0965_单值二叉树.cpp)</font> - 简单
 * 977 - <font size=4>[有序数组的平方](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0977_有序数组的平方.cs)</font> - 简单 - 2
+* 983 - <font size=4>[最低票价](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0983_最低票价.cpp)</font> - 中等
 * 985 - <font size=4>[查询后的偶数和](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0985_查询后的偶数和.cs)</font> - 简单
 * 991 - <font size=4>[坏了的计算器](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0991_坏了的计算器.cpp)</font> - 中等
 * 993 - <font size=4>[二叉树的堂兄弟节点](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0993_二叉树的堂兄弟节点.cpp)</font> - 简单
