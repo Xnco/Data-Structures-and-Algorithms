@@ -232,8 +232,9 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 1054 - <font size=4>[距离相等的条形码](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1054_距离相等的条形码.cpp)</font> - 中等
 * 1103 - <font size=4>[分糖果 II](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1103_分糖果II.cpp)</font> - 简单
 * 1137 - <font size=4>[第 N 个泰波那契数](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1137_第N个泰波那契数.cpp)</font> - 简单
-* 1190 - <font size=4>[反转每对括号间的子串](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0024_两两交换链表中的节点.cpp)</font> - 中等
+* 1190 - <font size=4>[反转每对括号间的子串](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1190_反转每对括号间的子串.cpp)</font> - 中等
 * 1275 - <font size=4>[找出井字棋的获胜者](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1275_找出井字棋的获胜者.cpp)</font> - 简单
+* 1277 - <font size=4>[统计全为1的正方形子矩阵](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1277_统计全为1的正方形子矩阵.cpp)</font> - 中等
 
 面试题系列
 * 51 - <font size=4>[数组中的逆序对](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/Interview_0051_数组中的逆序对.cpp)</font> - 困难

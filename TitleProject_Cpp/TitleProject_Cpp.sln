@@ -214,6 +214,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1200-1299", "1200-1299", "{3EF5204A-5B8D-4C4E-A542-F57C2C26FD7D}"
 	ProjectSection(SolutionItems) = preProject
 		1275_找出井字棋的获胜者.cpp = 1275_找出井字棋的获胜者.cpp
+		1277_统计全为1的正方形子矩阵.cpp = 1277_统计全为1的正方形子矩阵.cpp
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interview", "Interview", "{5D2B21DF-EC96-4E1E-BCEE-238A0BC0CEE5}"
