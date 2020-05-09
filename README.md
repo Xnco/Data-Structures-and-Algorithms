@@ -55,6 +55,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 64 - <font size=4>[最小路径和](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0064_最小路径和.cpp)</font> - 中等
 * 66 - <font size=4>[加一](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0066_加一.cpp)</font> - 简单
 * 67 - <font size=4>[二进制求和](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0067_二进制求和.cpp)</font> - 简单
+* 69 - <font size=4>[x的平方根](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0069_x的平方根.cpp)</font> - 简单
 * 70 - <font size=4>[爬楼梯]</font> - 简单 - 2
 * 77 - <font size=4>[组合](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0077_组合.cs)</font> - 中等
 * 78 - <font size=4>[子集]</font> - 中等
