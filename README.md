@@ -47,6 +47,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 37 - <font size=4>[解数独]</font> - <b>困难</b> - 2
 * 39 - <font size=4>[组合总和](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0039_组合总和.cpp)</font> - 中等
 * 46 - <font size=4>[全排列](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0046_全排列.cs)</font> - 中等 - 2
+* 50 - <font size=4>[Pow(x,n)](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0050_Pow(x,n).cpp)</font> - 中等 - 2
 * 51 - <font size=4>[N皇后](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0051_N皇后.cs)</font> - <b>困难</b>
 * 52 - <font size=4>[N皇后 II]</font> - <b>困难</b>
 * 53 - <font size=4>[最大子序和]</font> - 简单
