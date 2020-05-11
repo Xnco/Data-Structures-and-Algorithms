@@ -69,6 +69,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 94 - <font size=4>[二叉树的中序遍历](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0094_二叉树的中序遍历.cs)</font> - 中等
 * 95 - <font size=4>[不同的二叉搜索树 II](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0095_不同的二叉搜索树%20II.cpp)</font> - 中等
 * 96 - <font size=4>[不同的二叉搜索树](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0096_不同的二叉搜索树.cpp)</font> - 中等 - 2
+* 98 - <font size=4>[验证二叉搜索树](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0098_验证二叉搜索树.cpp)</font> - 中等 - 2
 * 100 - <font size=4>[相同的树](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0100_相同的树.cpp)</font> - 简单
 * 101 - <font size=4>[对称二叉树](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0101_对称二叉树.cs)</font> - 简单
 * 102 - <font size=4>[二叉树的层次遍历](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0102_二叉树的层次遍历.cpp)</font> - 中等
