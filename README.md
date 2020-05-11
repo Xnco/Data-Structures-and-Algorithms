@@ -46,6 +46,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 33 - <font size=4>[搜索旋转数组排序数组]</font> - 中等 - 3 cpp & cs
 * 37 - <font size=4>[解数独]</font> - <b>困难</b> - 2
 * 39 - <font size=4>[组合总和](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0039_组合总和.cpp)</font> - 中等
+* 45 - <font size=4>[跳跃游戏II](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0045_跳跃游戏II.cpp)</font> - <b>困难</b> - 3
 * 46 - <font size=4>[全排列](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0046_全排列.cs)</font> - 中等 - 2
 * 50 - <font size=4>[Pow(x,n)](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0050_Pow(x,n).cpp)</font> - 中等 - 2
 * 51 - <font size=4>[N皇后](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0051_N皇后.cs)</font> - <b>困难</b>
@@ -240,7 +241,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 1277 - <font size=4>[统计全为1的正方形子矩阵](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1277_统计全为1的正方形子矩阵.cpp)</font> - 中等
 
 面试题系列
-* 51 - <font size=4>[数组中的逆序对](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/Interview_0051_数组中的逆序对.cpp)</font> - 困难
+* 51 - <font size=4>[数组中的逆序对](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/Interview_0051_数组中的逆序对.cpp)</font> - <b>困难</b>
 
 <!--***********LeetCode Auto Flag, 不要删除这行***********-->
 

@@ -168,7 +168,7 @@ namespace ReadMeTool
                     content += " - " + DiffType.中等;
                     break;
                 case DiffType.困难:
-                    content += " - " + DiffType.困难;
+                    content += " - <b>" + DiffType.困难 + "</b>";
                     break;
                 default:
                     break;
