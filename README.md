@@ -103,6 +103,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 145 - <font size=4>[二叉树的后序遍历](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0145_二叉树的后序遍历.cs)</font> - <b>困难</b>
 * 148 - <font size=4>[排序链表](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0148_排序链表.cpp)</font> - 中等
 * 153 - <font size=4>[寻找旋转排序数组中的最小值](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0153_寻找旋转排序数组中的最小值.cpp)</font> - 中等 - 2
+* 155 - <font size=4>[最小栈](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0155_最小栈.cpp)</font> - 简单 - 3
 * 160 - <font size=4>[相交链表](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0160_相交链表.cpp)</font> - 简单
 * 162 - <font size=4>[寻找峰值](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0162_寻找峰值.cpp)</font> - 中等
 * 165 - <font size=4>[比较版本号](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0165_比较版本号.cs)</font> - 中等
