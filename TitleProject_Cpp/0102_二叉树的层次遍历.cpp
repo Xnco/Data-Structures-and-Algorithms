@@ -32,7 +32,7 @@ struct TreeNode {
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
  
-// 力扣 - 24ms(击败4.3%), 13.7MB  ===  Leetcode - 8ms 击败100%??? 13.8MB
+// 力扣 - 4ms(击败88.19%), 11.7MB  ===  Leetcode - 8ms 击败100%??? 13.8MB
 class Solution {
 public:
 	vector<vector<int>> levelOrder(TreeNode* root) {

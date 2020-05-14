@@ -43,7 +43,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 24 - <font size=4>[两两交换链表中的节点](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0024_两两交换链表中的节点.cpp)</font> - 中等 - 2
 * 26 - <font size=4>[删除排序数组中的重复项](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0026_删除排序数组中的重复项.cs)</font> - 简单
 * 27 - <font size=4>[移除元素](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0027_移除元素.cpp)</font> - 简单
-* 33 - <font size=4>[搜索旋转数组排序数组]</font> - 中等 - 3 cpp & cs
+* 33 - <font size=4>[搜索旋转数组排序数组](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0033_搜索旋转数组排序数组.cpp)</font> - 中等 - 3 cpp & cs
 * 37 - <font size=4>[解数独]</font> - <b>困难</b> - 2
 * 39 - <font size=4>[组合总和](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0039_组合总和.cpp)</font> - 中等
 * 45 - <font size=4>[跳跃游戏II](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0045_跳跃游戏II.cpp)</font> - <b>困难</b> - 3
@@ -93,7 +93,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 122 - <font size=4>[买卖股票的最佳时机 II]</font> - 简单
 * 125 - <font size=4>[验证回文串](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0125_验证回文串.cpp)</font> - 简单
 * 134 - <font size=4>[加油站](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0134_加油站.cpp)</font> - 中等
-* 136 - <font size=4>[只出现一次的数字]</font> - 简单 - 2
+* 136 - <font size=4>[只出现一次的数字](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0136_只出现一次的数字.cpp)</font> - 简单 - 2 cpp & cs
 * 137 - <font size=4>[只出现一次的数字 II]</font> - 中等 - 2
 * 139 - <font size=4>[单词拆分](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0139_单词拆分.cpp)</font> - 中等 - 3
 * 141 - <font size=4>[环形链表](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0141_环形链表.cpp)</font> - 简单
