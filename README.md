@@ -174,6 +174,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 547 - <font size=4>[朋友圈](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0547_朋友圈.cpp)</font> - 中等
 * 553 - <font size=4>[最优除法](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0553_最优除法.cpp)</font> - 中等
 * 557 - <font size=4>[反转字符串中的单词III]</font> - 简单
+* 560 - <font size=4>[和为k的子数组](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0560_和为k的子数组.cpp)</font> - 中等 - 2
 * 565 - <font size=4>[数组嵌套](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/565数组嵌套.cpp)</font> - 中等
 * 572 - <font size=4>[另一个数的子数](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0572_另一个数的子数.cpp)</font> - 简单 - 2
 * 575 - <font size=4>[分糖果](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0575_分糖果.cpp)</font> - 简单
