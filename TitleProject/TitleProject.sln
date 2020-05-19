@@ -89,6 +89,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "600-699", "600-699", "{6E298A77-8372-4748-92AF-6DCF97E93794}"
 	ProjectSection(SolutionItems) = preProject
 		0617_合并二叉树.cs = 0617_合并二叉树.cs
+		0680_验证回文字符串II.cs = 0680_验证回文字符串II.cs
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "700-799", "700-799", "{17713682-4E7D-4393-A0B8-975BDC858379}"
