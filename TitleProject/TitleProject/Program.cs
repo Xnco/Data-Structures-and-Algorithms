@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static TitleProject.Tool;
 
 namespace TitleProject
 {
@@ -11,16 +12,13 @@ namespace TitleProject
         static void Main(string[] args)
         {
             //Console.WriteLine(Convert("LEETCODEISHIRING", 3)); 
-
+            
         }
 
         // LCA(最近公共祖先)
         // DFS(深度优先遍历)
         // BFS(广度优先遍历)
-        /*
-         * 有待思考的题目
-         * 33 - 数组二分的一个小问题，判断无序和有序两部分
-         */
+        // 33 - 数组二分的一个小问题，判断无序和有序两部分
 
         #region 0 
         /*
@@ -289,31 +287,6 @@ namespace TitleProject
             return root.val;
         }
         #endregion
-        #region 879 - 动态规划问题
-        /*
-
-        */
-        static void ProfitableSchemes()
-        {
-
-        }
-        #endregion
-
-        //Definition for singly-linked list.
-        public class ListNode
-        {
-            public int val;
-            public ListNode next;
-            public ListNode(int x) { val = x; }
-        }
-
-        //Definition for a binary tree node.
-        public class TreeNode
-        {
-            public int val;
-            public TreeNode left;
-            public TreeNode right;
-            public TreeNode(int x) { val = x; }
-        }
+        
     }
 }

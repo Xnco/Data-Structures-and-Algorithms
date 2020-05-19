@@ -20,9 +20,9 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 ## <span id="algorithms">算法</span>
 * 二分查找 - BinarySearch
 * 插入排序 - InsertionSort
-* 希尔排序 - ShellSort
-* 归并排序 - MergeSort
-* 快速排序 - QuickSort
+* [希尔排序 - ShellSort](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/Shellsort/Program.cs)
+* [归并排序 - MergeSort](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/Mergesort/Program.cs)
+* [快速排序 - QuickSort](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/QuickSort.cs)
   
 ## <span id="directory">LeetCode目前完成目录</span>  
 题号-题目-难度-解法数量(没写就是一种解法)
