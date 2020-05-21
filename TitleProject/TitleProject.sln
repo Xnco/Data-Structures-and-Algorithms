@@ -109,6 +109,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0005_最长回文子串", "0005_最长回文子串\0005_最长回文子串.csproj", "{D664AE86-B739-4F7A-9537-8C943E93F5E8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001-010", "001-010", "{45E20B3B-1D61-4853-8372-46BA3241E8C7}"
+	ProjectSection(SolutionItems) = preProject
+		0006_Z字形变换.cs = 0006_Z字形变换.cs
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0011_盛最多水的容器", "0011_盛最多水的容器\0011_盛最多水的容器.csproj", "{C6F1CD02-D26C-4651-AE94-F7CBBB20B445}"
 EndProject
@@ -145,6 +148,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "900-999", "900-999", "{041D
 		0905_按奇偶排序数组.cs = 0905_按奇偶排序数组.cs
 		0977_有序数组的平方.cs = 0977_有序数组的平方.cs
 		0985_查询后的偶数和.cs = 0985_查询后的偶数和.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1000-", "1000-", "{F6F5A8D8-0364-499C-816B-B2392C40A481}"
+	ProjectSection(SolutionItems) = preProject
+		1371_每个元音包含偶数次的最长子字符串.cs = 1371_每个元音包含偶数次的最长子字符串.cs
 	EndProjectSection
 EndProject
 Global

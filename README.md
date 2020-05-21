@@ -31,6 +31,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 3 - <font size=4>[无重复字符的最长子串]</font> - 中等 - 2
 * 4 - <font size=4>[寻找两个有序数组的中位数]</font> - <b>困难</b>
 * 5 - <font size=4>[最长回文子串]</font> - 中等 - 2
+* 6 - <font size=4>[Z字形变换](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0006_Z字形变换.cs)</font> - 中等
 * 9 - <font size=4>[回文数]</font> - 简单
 * 11 - <font size=4>[盛最多水的容器]</font> - 中等
 * 15 - <font size=4>[三数之和]</font> - 中等
@@ -243,6 +244,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 1190 - <font size=4>[反转每对括号间的子串](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1190_反转每对括号间的子串.cpp)</font> - 中等
 * 1275 - <font size=4>[找出井字棋的获胜者](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1275_找出井字棋的获胜者.cpp)</font> - 简单
 * 1277 - <font size=4>[统计全为1的正方形子矩阵](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1277_统计全为1的正方形子矩阵.cpp)</font> - 中等
+* 1371 - <font size=4>[每个元音包含偶数次的最长子字符串](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1371_每个元音包含偶数次的最长子字符串.cs)</font> - 中等
 
 面试题系列
 * 51 - <font size=4>[数组中的逆序对](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/Interview_0051_数组中的逆序对.cpp)</font> - <b>困难</b>
