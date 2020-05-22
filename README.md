@@ -77,7 +77,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 102 - <font size=4>[二叉树的层次遍历](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0102_二叉树的层次遍历.cpp)</font> - 中等
 * 103 - <font size=4>[二叉树的锯齿形层次遍历](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0103_二叉树的锯齿形层次遍历.cpp)</font> - 中等
 * 104 - <font size=4>[二叉树的最大深度]</font> - 简单 - 2
-* 105 - <font size=4>[从前序与中序遍历序列构造二叉树]</font> - 中等
+* 105 - <font size=4>[从前序与中序遍历序列构造二叉树](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0105_从前序与中序遍历序列构造二叉树.cpp)</font> - 中等 cpp & cs
 * 106 - <font size=4>[从中序与后序遍历序列构造二叉树](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0106_从中序与后序遍历序列构造二叉树.cpp)</font> - 中等
 * 107 - <font size=4>[二叉树的层次遍历 II](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0107_二叉树的层次遍历%20II.cpp)</font> - 简单
 * 108 - <font size=4>[将有序数组转换为二叉搜索树 II]</font> - 简单

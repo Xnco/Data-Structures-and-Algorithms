@@ -11,14 +11,8 @@ namespace TitleProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Convert("ABCDEFGHIJKLMN", 3));
-
+            
         }
-
-        // LCA(最近公共祖先)
-        // DFS(深度优先遍历)
-        // BFS(广度优先遍历)
-        // 33 - 数组二分的一个小问题，判断无序和有序两部分
 
         #region 0 
         /*
