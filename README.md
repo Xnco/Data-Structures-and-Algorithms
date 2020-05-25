@@ -103,6 +103,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 143 - <font size=4>[重排链表](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0143_重排链表.cpp)</font> - 中等
 * 144 - <font size=4>[二叉树的前序遍历]</font> - 中等
 * 145 - <font size=4>[二叉树的后序遍历](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0145_二叉树的后序遍历.cs)</font> - <b>困难</b>
+* 146 - <font size=4>[LRU缓存机制](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0146_LRU缓存机制.cs)</font> - 中等
 * 148 - <font size=4>[排序链表](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0148_排序链表.cpp)</font> - 中等
 * 152 - <font size=4>[乘积最大子数组](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0152_乘积最大子数组.cpp)</font> - 中等
 * 153 - <font size=4>[寻找旋转排序数组中的最小值](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0153_寻找旋转排序数组中的最小值.cpp)</font> - 中等 - 2

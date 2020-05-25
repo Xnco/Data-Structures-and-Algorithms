@@ -11,12 +11,7 @@ namespace TitleProject
     {
         static void Main(string[] args)
         {
-            ListNode c = new ListNode(1);
-            c.next = new ListNode(2);
-            //c.next.next = new ListNode(3);
-            //c.next.next.next = new ListNode(4);
-            //c.next.next.next.next = new ListNode(5);
-            RotateRight(c, 2);
+            
         }
 
         #region 0 
