@@ -53,6 +53,25 @@ public class Class1
     }
 
     // 解法2 快慢指针
+    //Runtime: 96 ms, faster than 82.87% of C# online submissions for Find the Duplicate Number.
+    //Memory Usage: 25.3 MB, less than 20.00% of C# online submissions for Find the Duplicate Number.
+    static int FindDuplicate(int[] nums)
+    {
+        int slow = 0; int fast = 0;
+        do
+        {
+            fast = nums[nums[fast]];
+            slow = nums[slow];
+        } while (nums[slow] != nums[fast]);
+
+        slow = 0;
+        while (nums[slow] != nums[fast])
+        {
+            fast = nums[fast];
+            slow = nums[slow];
+        }
+        return nums[slow];
+    }
 
     // http://www.cnblogs.com/grandyang/p/4843654.html - 这个博客有第三种解法
 
