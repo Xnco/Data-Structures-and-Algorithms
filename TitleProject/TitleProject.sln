@@ -86,6 +86,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "400-499", "400-499", "{5E9E3351-2575-4EE9-94E7-E6F459D807F7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "500-599", "500-599", "{86B37EB0-D7A7-4F2F-8C3F-9D9FA248D3BD}"
+	ProjectSection(SolutionItems) = preProject
+		0538_把二叉搜索树转换为累加树.cs = 0538_把二叉搜索树转换为累加树.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "600-699", "600-699", "{6E298A77-8372-4748-92AF-6DCF97E93794}"
 	ProjectSection(SolutionItems) = preProject
@@ -155,6 +158,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "900-999", "900-999", "{041D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1000-", "1000-", "{F6F5A8D8-0364-499C-816B-B2392C40A481}"
 	ProjectSection(SolutionItems) = preProject
+		1038_从二叉搜索树到更大和树.cs = 1038_从二叉搜索树到更大和树.cs
 		1371_每个元音包含偶数次的最长子字符串.cs = 1371_每个元音包含偶数次的最长子字符串.cs
 	EndProjectSection
 EndProject

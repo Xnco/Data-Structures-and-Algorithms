@@ -174,6 +174,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 513 - <font size=4>[找树左下角的值](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0513_找树左下角的值.cpp)</font> - 中等
 * 520 - <font size=4>[检测大写字母](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0520_检测大写字母.cpp)</font> - 简单
 * 530 - <font size=4>[二叉搜索树的最小绝对差](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0530_二叉搜索树的最小绝对差.cpp)</font> - 简单
+* 538 - <font size=4>[把二叉搜索树转换为累加树](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0538_把二叉搜索树转换为累加树.cs)</font> - 简单
 * 539 - <font size=4>[最小时间差](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0539_最小时间差.cpp)</font> - 中等
 * 547 - <font size=4>[朋友圈](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0547_朋友圈.cpp)</font> - 中等
 * 553 - <font size=4>[最优除法](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0553_最优除法.cpp)</font> - 中等
@@ -240,6 +241,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 1008 - <font size=4>[先序遍历构造二叉树](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1008_先序遍历构造二叉树.cpp)</font> - 中等
 * 1019 - <font size=4>[链表中的下一个更大节点](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1019_链表中的下一个更大节点.cpp)</font> - 中等
 * 1025 - <font size=4>[除数博弈](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1025_除数博弈.cpp)</font> - 简单 - 2
+* 1038 - <font size=4>[从二叉搜索树到更大和树](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/1038_从二叉搜索树到更大和树.cs)</font> - 中等
 * 1054 - <font size=4>[距离相等的条形码](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1054_距离相等的条形码.cpp)</font> - 中等
 * 1103 - <font size=4>[分糖果 II](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1103_分糖果II.cpp)</font> - 简单
 * 1137 - <font size=4>[第 N 个泰波那契数](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/1137_第N个泰波那契数.cpp)</font> - 简单
