@@ -82,6 +82,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "200-299", "200-299", "{0861
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "300-399", "300-399", "{258E0181-7BDA-44A6-94FC-43775303C730}"
+	ProjectSection(SolutionItems) = preProject
+		0394_字符串解码.cs = 0394_字符串解码.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "400-499", "400-499", "{5E9E3351-2575-4EE9-94E7-E6F459D807F7}"
 EndProject

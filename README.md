@@ -148,6 +148,7 @@ ps : 目前题库为LeetCode，一般一道题会给出多种方案，并且分�
 * 349 - <font size=4>[两个数组的交集](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0349_两个数组的交集.cpp)</font> - 简单
 * 367 - <font size=4>[有效的完全平方数](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0367_有效的完全平方数.cpp)</font> - 简单
 * 386 - <font size=4>[字典序排数](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0386_字典序排数.cpp)</font> - 中等
+* 394 - <font size=4>[字符串解码](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject/0394_字符串解码.cs)</font> - 中等
 * 404 - <font size=4>[左叶子之和](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0404_左叶子之和.cpp)</font> - 简单
 * 413 - <font size=4>[等差数列划分](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0413_等差数列划分.cpp)</font> - 中等
 * 412 - <font size=4>[FizzBuzz](https://github.com/Xnco/Data-Structures-and-Algorithms/blob/master/TitleProject_Cpp/0412_FizzBuzz.cpp)</font> - 简单  
